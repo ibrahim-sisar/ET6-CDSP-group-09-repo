@@ -47,12 +47,9 @@ We decided to meet two times per week:
 🗓 **Mondays and Wednesdays**  
 🕙 **10:00 AM EST**  
 
-Meetings will be scheduled with at least 48 hours' notice. Times will be  
-adjusted based on team availability when needed.
-
 ---
 
-## 6. Project Topic  
+## 6. Exploration Phase
 
-The team will work on a project related to **climate**. Everyone will research  
-possible topics and share ideas before the next meeting.
+We aim to explore our domain of interest more deeply and
+to get ready for the next phase.
