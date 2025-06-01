@@ -57,7 +57,7 @@ development.
 • We’ll revisit and update these norms as needed to reflect how we’re
 evolving.  
 
-✅ **Our Commitments as a Team**
+✅ **Our Commitments as a Team**  
 • Create a kind and inclusive space.  
 • Speak honestly, listen actively.  
 • Stay open to diverse ideas.  
@@ -68,7 +68,7 @@ evolving.
 • Keep improving how we work together.  
 • Celebrate each other’s efforts and grow as a team.  
 
-📌 **Group Norms Summary**
+📌 **Group Norms Summary**  
 We are a team that values trust, respect, and open communication. We
 support each other, welcome different ideas, and work together to keep
 learning and growing.
