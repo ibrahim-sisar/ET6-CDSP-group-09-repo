@@ -1,6 +1,6 @@
 # Collaboration
 
-# Group Norms
+## Group Norms
 
 💠 **Our Shared Purpose**
 We want our group to be a space where everyone feels respected, safe, and
