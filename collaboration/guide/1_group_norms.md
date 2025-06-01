@@ -72,7 +72,8 @@ development.
 We’ll revisit and update these norms as needed to reflect how we’re  
 evolving.
 
-✅ **Our Commitments as a Team**  
+✅ **Our Commitments as a Team**
+
 - Create a kind and inclusive space.  
 - Speak honestly, listen actively.  
 - Stay open to diverse ideas.  
