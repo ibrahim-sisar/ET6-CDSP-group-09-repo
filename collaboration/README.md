@@ -2,13 +2,13 @@
 
 ## Group Norms
 
-💠 **Our Shared Purpose**
+💠 **Our Shared Purpose**  
 We want our group to be a space where everyone feels respected, safe, and
 encouraged to grow. We believe in working together honestly, listening with
 care, and staying open to different ideas. Our aim is to build trust, do our
 best, and support each other as a team.
 
-🗣️ **Communication & Respect**
+🗣️ **Communication & Respect**  
 • We speak with kindness and listen with full attention.  
 • Every voice matters — all ideas are treated with respect; we focus on
 what is said, not who says it.  
@@ -18,11 +18,12 @@ people.
 • Open dialogue is encouraged — curiosity and understanding come before
 conclusions.
 
-🔍 **Constructive Discussions & Debate**
+🔍 **Constructive Discussions & Debate**  
 • We define clear goals before a discussion or debate begins.  
 • All opinions are welcome — even those different from our own.  
 • Debates are not competitions; they are opportunities to explore together.  
-• If we reach a standstill, we’ll vote or turn to a neutral member for guidance.
+• If we reach a standstill, we’ll vote or turn to a neutral member for
+guidance.  
 • We stay respectful, positive, and growth-minded throughout.  
 • We engage in debates with a respectful and positive attitude, focusing on
 ideas rather than individuals, and striving for constructive outcomes.  
@@ -31,7 +32,7 @@ on the person who wrote it.
 • Feedback should be constructive, respectful, and aimed at improving the
 outcome.  
 
-🤝 **Trust & Team Connection**
+🤝 **Trust & Team Connection**  
 • We start from a place of trust — everyone is here to contribute and grow.  
 • Mistakes are part of learning; we respond with support, not judgment.  
 • If trust is broken, we commit to resolving it openly and respectfully.  
