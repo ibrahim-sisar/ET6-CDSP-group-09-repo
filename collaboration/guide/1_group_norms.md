@@ -20,7 +20,7 @@ best, and support each other as a team.
 • We define clear goals before a discussion or debate begins.  
 • All opinions are welcome — even those different from our own.  
 • Debates are not competitions; they are opportunities to explore together.  
-• If we reach a standstill, we’ll vote or turn to a neutral member for guidance.  
+• If we reach a standstill, we’ll vote or turn to a neutral member for guidance.
 • We stay respectful, positive, and growth-minded throughout.  
 • We engage in debates with a respectful and positive attitude, focusing on  
   ideas rather than individuals, and striving for constructive outcomes.  
