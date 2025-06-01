@@ -23,12 +23,14 @@ do our best, and support each other as a team.
   together.  
 • If we reach a standstill, we’ll vote or turn to a neutral member for  
   guidance.  
-• We stay respectful, positive, and growth-minded throughout. We engage  
-  in debates with a respectful and positive attitude, focusing on ideas  
-  rather than individuals, and striving for constructive outcomes.  
+• We stay respectful, positive, and growth-minded throughout. 
+• We engage in debates with a respectful and positive attitude, 
+  focusing on ideas rather than individuals, and striving for 
+  constructive outcomes.  
 • When reviewing code or project content, we focus on the work itself —  
-  not on the person who wrote it. Feedback should be constructive,  
-  respectful, and aimed at improving the outcome.
+  not on the person who wrote it. 
+• Feedback should be constructive, respectful, and aimed at improving 
+  the outcome.
 
 🤝 **Trust & Team Connection**  
 • We start from a place of trust — everyone is here to contribute and  
