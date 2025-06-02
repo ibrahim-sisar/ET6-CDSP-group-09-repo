@@ -122,5 +122,16 @@
       "source.fixAll.ruff": "explicit",
       "source.organizeImports.ruff": "explicit"
     }
-  }
+  },
+  "cSpell.words": [
+    "Falaq",
+    "Hussaini",
+    "Kalender",
+    "Khairy",
+    "Linah",
+    "Majeed",
+    "Saadet",
+    "Salih",
+    "Saliha"
+  ]
 }
