@@ -15,8 +15,6 @@ and channels to support both synchronous and asynchronous collaboration.
 
 ---
 
-<<<<<<< HEAD
-
 ## Communication Channels
 
 This is a remote collaborative data science project in which all communication occurs
