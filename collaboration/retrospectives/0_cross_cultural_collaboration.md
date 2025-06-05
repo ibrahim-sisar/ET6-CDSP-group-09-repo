@@ -1,5 +1,3 @@
-<!-- This template is for inspiration. Feel free to change it however you like! -->
-
 # Retrospective
 
 ## Stop Doing
@@ -128,5 +126,3 @@ everything on time.
 💭 **Reflection**  
 Starting naturally and breaking down initial barriers made collaboration easier.
 Once the team got to know each other, it helped us complete tasks more smoothly.
-
-<!-- Reflect on your contributions, challenges, and progress in this milestone -->
