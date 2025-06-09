@@ -32,11 +32,29 @@ time and stress
 
 ### What parts of your plan went as expected?  
 
+- Team members introduced themselves and quickly agreed on a regular
+meeting schedule.  
+- Early task delegation helped build momentum and provided clear
+direction.  
+- Most meetings and conversations were efficient and focused on our shared
+goals.  
+- Collaboration platforms (Slack and WhatsApp) were set up early, making
+communication smooth.  
+
 ### What parts of your plan did not work out?  
+
+- We initially underestimated how much time coordination would take across
+different time zones and schedules.  
 
 ### Did you need to add things that weren't in your strategy?  
 
+- We introduced WhatsApp as an additional communication channel to enable quicker
+more informal check-ins and updates.  
+
 ### Or remove extra steps?  
+
+- No major steps were removed. The first milestone proceeded smoothly without
+requiring any significant adjustments.  
 
 ---
 
