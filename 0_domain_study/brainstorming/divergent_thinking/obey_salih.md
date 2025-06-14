@@ -18,11 +18,11 @@ climate
 resilience efforts.
 Research Questions:
 
-How have global mean temperatures evolved year by year over the
+- How have global mean temperatures evolved year by year over the
 past century?
-What is the correlation between atmospheric CO₂
+- What is the correlation between atmospheric CO₂
 levels and global temperature anomalies?
-Which countries have experienced
+- Which countries have experienced
 the fastest rate of warming between 1900 and
 2024?  
 

@@ -24,22 +24,25 @@ Data Sources:
 CAMS Global Reanalysis EAC4
 [World Bank](<https://databank.worldbank.org>)  
 References:
-• [World Health Organization (WHO). (2021). Ambient Air Pollution: A Global
-Assessment of Exposure and Burden of Disease.](<https://www.who.int/publications/i/item/9789241511353>)  
-• [Brunekreef, B., & Holgate, S. T. (2002). Air pollution and health. The Lancet,
-360(9341), 1233–1242.](<https://doi.org/10.1016/S0140-6736(02)11274-8>)  
-• [Lelieveld, J., Evans, J. S., Fnais, M., Giannadaki, D., & Pozzer, A. (2015).
-The contribution of outdoor air pollution sources to premature mortality on a
-global scale. Nature, 525(7569), 367–371.](<https://doi.org/10.1038/nature15371>)  
-• [Pope, C. A., Burnett, R. T., Thun, M. J., et al. (2002). Lung cancer,
-cardiopulmonary mortality, and long-term exposure to fine particulate air
-pollution. JAMA, 287(9), 1132–1141.](<https://doi.org/10.1001/jama.287.9.1132>)  
-•[Cohen, A. J., Brauer, M., Burnett, R., et al. (2017). Estimates and 25-year
-trends of the global burden of disease attributable to ambient air pollution: An
-analysis of data from the Global Burden of Diseases Study 2015. The Lancet,
-389(10082), 1907–1918.](<https://doi.org/10.1016/S0140-6736(17)30505-6>)  
-• [World Bank. (2016). The Cost of Air Pollution: Strengthening the Economic Case
-for Action. World Bank Group.](<https://openknowledge.worldbank.org/handle/10986/25013>)  
+
+## References
+
+- WHO. (2021). *Ambient Air Pollution: A Global Assessment of Exposure
+and Burden of Disease*.
+[Link here](https://www.who.int/publications/i/item/9789241511353)  
+- Brunekreef, B., & Holgate, S. T. (2002). *Air pollution and health*,
+*The Lancet*, 360(9341), 1233–1242.
+[Link here](https://doi.org/10.1016/S0140-6736(02)11274-8)  
+- Lelieveld, J., et al. (2015). *Outdoor air pollution and premature mortality*
+*Nature*, 525(7569), 367–371.
+[Link here](https://doi.org/10.1038/nature15371)  
+- Pope, C. A., et al. (2002). *Air pollution and long-term mortality*, *JAMA*,
+287(9), 1132–1141.
+[Link here](https://doi.org/10.1001/jama.287.9.1132)  
+- Cohen, A. J., et al. (2017). *25-year trends in air pollution burden*,
+*The Lancet*, 389(10082), 1907–1918.
+[Link here](https://doi.org/10.1016/S0140-6736(17)30505-6)  
+- World Bank. (2016). *The Cost of Air Pollution*. [Link here](https://openknowledge.worldbank.org/handle/10986/25013)
 
 ## 2.Domain: Renewable Energy
 
@@ -59,7 +62,8 @@ adoption since 1990?
 What is the relationship between renewable energy growth and reductions in CO₂
 emissions?  
 
-Data Source:  
+Data Source:
+
 [Kaggle](<https://www.kaggle.com/code/mehmetisik/02-the-evolution-of-modern-renewable-energy/notebook>)  
 [IEA](<https://www.iea.org/>)  
 [Irena](<https://www.irena.org/Statistics>)  
