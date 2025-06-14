@@ -16,3 +16,10 @@ domains to see what interested each of us.
 We made a poll on Slack to vote on which domain the majority preferred.
 After that, we searched for different possible research questions
 within that domain to find the best fit for our project.
+
+### [Discussion](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/discussions)
+
+All of these steps were thoroughly discussed and documented in the Discussions
+section of our GitHub repository. You can explore the full conversation and
+decision-making process in our dedicated posts on [Divergent Thinking](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/discussions/28)
+and [Convergent Thinking](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/discussions/33)
