@@ -17,7 +17,7 @@ Which countries have experienced the fastest rate of warming between 1900 and
 2024?  
 
 Data Source:  
-[Kaggle](<https://www.kaggle.com/datasets/kkhandekar/climate-change-vs-global-warming>)  
-[Nasa](<https://climate.nasa.gov/>)  
-[Our World In Data](<https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions>)  
-[World Bank](<https://climateknowledgeportal.worldbank.org/>)  
+[Kaggle](https://www.kaggle.com/datasets/kkhandekar/climate-change-vs-global-warming)  
+[Nasa](https://climate.nasa.gov/)  
+[Our World In Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)  
+[World Bank](https://climateknowledgeportal.worldbank.org/)  
