@@ -56,9 +56,10 @@ How has global renewable energy (solar, wind, hydro, bioenergy) consumption
 evolved from 1990 to 2020?
 Which countries have shown the fastest and slowest growth in renewable energy
 adoption since 1990?
-What is the relationship between renewable energy growth and reductions in CO₂ emissions?
-Data Source:
+What is the relationship between renewable energy growth and reductions in CO₂
+emissions?  
 
+Data Source:  
 [Kaggle](<https://www.kaggle.com/code/mehmetisik/02-the-evolution-of-modern-renewable-energy/notebook>)  
 [IEA](<https://www.iea.org/>)  
 [Irena](<https://www.irena.org/Statistics>)  

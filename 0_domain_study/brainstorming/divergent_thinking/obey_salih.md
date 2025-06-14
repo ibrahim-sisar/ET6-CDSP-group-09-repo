@@ -13,9 +13,10 @@ Research Questions:
 
 How have global mean temperatures evolved year by year over the past century?
 What is the correlation between atmospheric CO₂ levels and global temperature anomalies?
-Which countries have experienced the fastest rate of warming between 1900 and 2024?
-Data Source:
+Which countries have experienced the fastest rate of warming between 1900 and
+2024?  
 
+Data Source:  
 [Kaggle](<https://www.kaggle.com/datasets/kkhandekar/climate-change-vs-global-warming>)  
 [Nasa](<https://climate.nasa.gov/>)  
 [Our World In Data](<https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions>)  
