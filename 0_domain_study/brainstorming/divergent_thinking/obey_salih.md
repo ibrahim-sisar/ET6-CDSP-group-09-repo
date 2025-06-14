@@ -12,15 +12,22 @@ climate resilience efforts.
 
 ### Research Questions
 
-- How have global mean temperatures evolved year by year over the past century?
+- How have global mean temperatures evolved year by year over the past
+  century?
 - What is the correlation between atmospheric CO₂ levels and global
   temperature anomalies?
-- Which countries have experienced the fastest rate of warming between 1900 and
-  2024?
+- Which countries have experienced the fastest rate of warming between 1900
+  and 2024?
 
 ### Data Source  
 
-[Kaggle](https://www.kaggle.com/datasets/kkhandekar/climate-change-vs-global-warming)  
-[NASA](https://climate.nasa.gov/)  
-[Our World In Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)  
-[World Bank](https://climateknowledgeportal.worldbank.org/)
+[Kaggle][kaggle]  
+[NASA][nasa]  
+[Our World In Data][owid]  
+[World Bank][wb]
+
+<!-- Reference Links -->
+[kaggle]: https://www.kaggle.com/datasets/kkhandekar/climate-change-vs-global-warming
+[nasa]: https://climate.nasa.gov/
+[owid]: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+[wb]: https://climateknowledgeportal.worldbank.org/
