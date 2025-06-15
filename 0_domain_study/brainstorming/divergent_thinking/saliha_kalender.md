@@ -7,9 +7,9 @@ responsible for around 7 million premature deaths annually and driven by
 pollutants such as PM2.5, NO₂, O₃, and CO. This dataset enables city-level
 analysis of air quality, allowing researchers to identify pollution hotspots,
 compare regions, investigate pollutant-AQI correlations, and build predictive
-models to support targeted interventions and policy-making.
+models to support targeted interventions and policy-making.  
 
-### Research Questions
+### Research Questions  
 
 - Which cities had the highest and lowest AQI levels globally in 2024?
 - What is the dominant pollutant (PM2.5, NO₂, CO, or O₃) in the top 10 most
