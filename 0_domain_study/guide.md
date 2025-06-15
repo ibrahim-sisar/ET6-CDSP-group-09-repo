@@ -1,84 +1,15 @@
-# 🌍 Domain Study: Global Air Pollution
+# Domain Study: Guide
 
-Welcome to the domain study folder for our research on **air pollution and its
- effects on respiratory and cardiovascular health** across global cities. This
- folder organizes everything we've learned about the research area, and it's
- meant to help any new reader quickly understand the key concepts, brainstorming
-and background review.
+To do meaningful research in a domain, you need to learn what others already do
+and don't understand in this area. Use this folder to organize your group's
+understanding of your research domain including: your own summaries, helpful
+PDFs, links you found helpful, ...
 
----
+This folder is different from `/notes` because it contains _only_ information
+about your research domain. When deciding what goes here, ask yourself this
+question: _Would someone need to know this to understand our research?_
 
-## 📌 Purpose of This Folder
+## README.md
 
-This folder includes:
-
-- Brainstorming
-- Background summaries about air pollution and health
-- Summary of our understanding
-- Key terms and pollutant definitions
-- Helpful articles, PDFs, and links
-
----
-
-## What You’ll Find Here
-
-### 1. `background_review.md`
-
-Summary of current understanding of:
-
-- Air Pollution as a Global Health Crisis
-- Major Pollutants and Their Health Pathways
-- Why Focus on the Dominant Pollutant?
-- Regional Signatures and Pollution Sources
-- The Pollutant Composition Index (PCI)
-- Beyond Exposure: Integrating Health Burden Data
-- Analytical Value and Research Gap
-
-### 2. `key_terms.md`
-
-Definitions and short explanations of key domain concepts:
-
-- AQI (Air Quality Index)
-- Dominant pollutant
-- Respiratory vs. cardiovascular diseases
-
-### 4. `resources_links.md`
-
-A list of:
-
-- Data sources (e.g., WHO, OpenAQ, IHME)
-- Articles or reports that helped us understand the domain
-
----
-
-## 📂 File Organization
-
-| File | Description |
-|------|-------------|
-| `background_review.md` | What’s already known about air pollution and health |
-| `key_terms.md` | Glossary of relevant terms |
-| `brainstorming` | Convergent and divergent thinking |
-|`sum_of_group_understanding.md`| general understanding and our shared knowledge|
-| `resources_links.md` | Useful links |
-| `problem_statement.md` | Highlights the needs and the challenges |
-
----
-
-## 📌 How This Helps Our Research
-
-Understanding the domain lets us:
-
-- Know what has already been studied
-- Make sure our research question aligns the FRESCO & PICOT evaluation
-
-This folder gives context to our question:  
-**"How do respiratory and cardiovascular health outcomes vary across global cities
- categorized by their dominant air pollutant?"**
-
----
-
-## Want to Contribute?
-
-If you find something useful (e.g., an article, a dataset, or a great visual),
-add it to the appropriate file and update this README to help others navigate it
-easily.
+Use this folder's README to document all the notes and resources in this folder.
+Someone shouldn't need to read through _everything_ to find what they need.
