@@ -1,4 +1,4 @@
-# Domain Research: Global Air Pollution ![earth](../../notes/images/notes/images/air_pollution_earth.gif)
+# Domain Research: Global Air Pollution ![earth](../notes/images/air_pollution_earth.gif)
 
 Welcome to the domain study folder for our research on **air pollution and its
  effects on respiratory and cardiovascular health** across global cities. This
