@@ -91,7 +91,7 @@ the distribution of pollution across multiple pollutants:
 
 - A **low PCI** score indicates a pollution profile dominated by a single
 pollutant (e.g., PM2.5 accounting for 90% of AQI).  
-- A high PCI score suggests a balanced mix of pollutants, requiring multi-
+- A **high PCI** score suggests a balanced mix of pollutants, requiring multi-
 faceted control strategies.
 
 This distinction is not only relevant for source attribution (e.g., traffic,
@@ -150,9 +150,9 @@ This study addresses this gap through a comparative global analysis that
 classifies urban air pollution by dominant pollutant and assesses corresponding
 health outcomes.
 
-![*Figure 1.* Schematic representation of how air pollution sources generate specific
-pollutants that affect health outcomes, moderated by socioeconomic factors and
-policy interventions.](Figure_1.png)
+![Pollution-health schematic](Figure_1.png)
+
+*Figure 1. Link between pollution sources and health, shaped by policy and context.*
 
 Such a layered approach enables:
 
