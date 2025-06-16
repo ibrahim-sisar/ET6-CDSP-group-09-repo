@@ -150,7 +150,7 @@ This study addresses this gap through a comparative global analysis that
 classifies urban air pollution by dominant pollutant and assesses corresponding
 health outcomes.
 
-![Pollution-health schematic](Figure_1.png)
+![Pollution-health schematic](../notes/images/Figure_1.png)
 
 *Figure 1. Link between pollution sources and health, shaped by policy and context.*
 
