@@ -13,6 +13,8 @@ policy decisions. Understanding these **feedback loops** allows us to frame the
 problem more holistically. It helps account not only for direct causes but also for
 indirect effects and long-term implications.
 
+![Systems Thinking Diagram](../notes/images/system_thinking.png)
+
 Each city is assigned an **Air Quality Index (AQI)** score. This score reflects the
 **severity of pollution** based on the concentration of the most harmful pollutant
 at that time. It is not an average of all pollutants. The AQI falls into levels,
