@@ -1,1 +1,1 @@
-# ![banner](notes/images/blue_image.png)
+# ![banner](notes/images/repo_banner.png)
