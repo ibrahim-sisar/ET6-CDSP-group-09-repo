@@ -6,8 +6,8 @@ can help explain variations in disease burden and guide more targeted interventi
 
 This project seeks to answer the following question:
 
-> ***How do respiratory and cardiovascular health outcomes in 2024 vary across global
-cities categorized by their dominant air pollutant?***
+> ***How do respiratory and cardiovascular health outcomes vary across global
+cities in 2024 when categorized by their dominant air pollutant?***
 
 This question stems from rising concerns about air quality and its direct impact
 on human health. Many of us have personally experienced or witnessed the effects
