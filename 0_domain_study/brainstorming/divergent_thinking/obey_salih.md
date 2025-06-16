@@ -36,3 +36,24 @@ sector (transport, energy, industry) from 1980–2024?
 - [World Bank CO₂ Indicators](https://data.worldbank.org/indicator/EN.ATM.CO2E.KT)
 
 ---
+
+### 🔋 Energy Transition & Climate Impact  
+
+🧠 *Analyzing the shift from fossil fuels to renewable energy and its
+environmental implications.*
+
+**Research Questions
+
+- How is the global energy mix evolving, and what impact does this have on emissions?
+- What is the relationship between the adoption of renewable energy and the
+reduction of local air pollutants?
+- How does renewable energy adoption correlate with changes in national CO₂
+emissions over time?
+
+📚 **Data Sources**
+
+- [Our World in Data – Energy Mix](https://ourworldindata.org/energy)
+- [IRENA Statistics](https://www.irena.org/Statistics)
+- [BP Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+
+---
