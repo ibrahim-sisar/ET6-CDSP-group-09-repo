@@ -1,8 +1,6 @@
 # ![banner](notes/images/banner2.png)
 
-[![Typing SVG](
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=What+Is+Atmosfear%3F
-)](https://git.io/typing-svg)  
+[![Typing SVG][badge-1]](https://git.io/typing-svg)  
 **Atmosfear** is a data science group project that explores the global
 challenge of air pollution and its impact on public health. Our goal is to
 uncover patterns in how different pollutants dominate across world cities and
@@ -13,9 +11,7 @@ more targeted, pollutant-specific policy interventions.
 
 ---
 
-[![Typing SVG](
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Why+Air+Pollution
-)](https://git.io/typing-svg)  
+[![Typing SVG][badge-2]](https://git.io/typing-svg)  
 Air pollution is one of the most underestimated killers in the world today.
 Unlike more visible threats, polluted air is invisible and easy to ignore
 until it becomes personal. You can't see it, but it's there: silently entering
@@ -30,9 +26,7 @@ plain sight.
 
 ---
 
-[![Typing SVG](
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Problem+Statment
-)](https://git.io/typing-svg)  
+[![Typing SVG][badge-3]](https://git.io/typing-svg)  
 One of our group members shared a personal story: her mother, who has asthma,
 experiences severe discomfort when staying in cities where it is polluted.
 Even short visits can mean weeks of relying on medications, constant coughing,
@@ -45,9 +39,7 @@ vulnerable individuals?**
 
 ---
 
-[![Typing SVG](
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Summary+Of+Our+Group+Understanding+
-)](https://git.io/typing-svg)  
+[![Typing SVG][badge-4]](https://git.io/typing-svg)  
 A brief overview of our shared insights on global air pollution, its health
 impacts, and why a deeper pollutant-specific analysis is needed.
 
@@ -55,9 +47,7 @@ impacts, and why a deeper pollutant-specific analysis is needed.
 
 ---
 
-[![Typing SVG](
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Background+Review
-)](https://git.io/typing-svg)  
+[![Typing SVG][badge-5]](https://git.io/typing-svg)  
 A focused review of key pollutants, global exposure trends, and the
 limitations of current metrics like the AQI.
 
@@ -65,18 +55,14 @@ limitations of current metrics like the AQI.
 
 ---
 
-[![Typing SVG](
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Research+Question
-)](https://git.io/typing-svg)  
+[![Typing SVG][badge-6]](https://git.io/typing-svg)  
 Among the top global cities with the highest average AQI in **(Timeframe)**,
 how do respiratory and cardiovascular hospitalization rates differ based on
 the city’s dominant air pollutant? (place holder for later)
 
 ---
 
-[![Typing SVG](
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Atmosfear+Team+Members
-)](https://git.io/typing-svg)
+[![Typing SVG][badge-7]](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -112,4 +98,13 @@ https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&col
     </td>
   </tr>
 </table>
-<!-- Added inline HTML for visual enhancement and better aesthetics -->
+
+<!-- Badge URLs below -->
+
+[badge-1]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=What+Is+Atmosfear%3F
+[badge-2]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Why+Air+Pollution
+[badge-3]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Problem+Statment
+[badge-4]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Summary+Of+Our+Group+Understanding+
+[badge-5]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Background+Review
+[badge-6]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Research+Question
+[badge-7]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Atmosfear+Team+Members
