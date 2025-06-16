@@ -20,5 +20,5 @@ associated with adverse health impacts. Our goal is to generate insights that
 can inform both public awareness and policy decisions.
 
 This direction fits well within the **limited scope and timeline** of our project,
-and reflects practical constraints such as **data availability**, **domain  
+and reflects practical constraints such as **data availability**, **domain
 familiarity**, and the need for a focused, feasible analysis.
