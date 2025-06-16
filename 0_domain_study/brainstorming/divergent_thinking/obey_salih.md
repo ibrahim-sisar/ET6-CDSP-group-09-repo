@@ -15,24 +15,24 @@ commonly used to interpret patterns and build predictive models.
 
 ---
 
-### Research Questions
+## 🔍 Research Focus Areas & Questions
 
-- How have global mean temperatures evolved year by year over the past
-  century?
-- What is the correlation between atmospheric CO₂ levels and global
-  temperature anomalies?
-- Which countries have experienced the fastest rate of warming between 1900
-  and 2024?
+### 🏭 Carbon Emissions & Carbon Capture  
 
-### Data Source  
+🧠 *Understanding sources of emissions and exploring solutions for capture and reduction.*
 
-[Kaggle][kaggle]  
-[NASA][nasa]  
-[Our World In Data][owid]  
-[World Bank][wb]
+**Research Questions
 
-<!-- Reference Links -->
-[kaggle]: https://www.kaggle.com/datasets/kkhandekar/climate-change-vs-global-warming
-[nasa]: https://climate.nasa.gov/
-[owid]: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
-[wb]: https://climateknowledgeportal.worldbank.org/
+- What are the trends in CO₂ emissions globally and by
+sector (transport, energy, industry) from 1980–2024?
+- Which countries have been most successful in reducing their carbon intensity
+(emissions per GDP)?
+- How effective are carbon capture and storage (CCS) strategies in reducing net emissions?
+
+📚 **Data Sources**
+
+- [IEA Carbon Emissions Data](https://www.iea.org/reports/co2-emissions-in-2022)
+- [Global Carbon Atlas](https://globalcarbonatlas.org/)
+- [World Bank CO₂ Indicators](https://data.worldbank.org/indicator/EN.ATM.CO2E.KT)
+
+---
