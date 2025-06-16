@@ -42,6 +42,13 @@ Definitions and short explanations of key domain concepts:
 - Dominant pollutant
 - Respiratory vs. cardiovascular diseases
 
+### 3. `sum_of_group_understanding.md`
+
+Captures our collective understanding of the domain based on
+our initial research, discussions, and individual explorations. It reflects
+how we’ve connected scientific findings with real-world health challenges
+and why we’re focusing on dominant air pollutants.
+
 ### 4. `resources_links.md`
 
 A list of:
@@ -72,8 +79,8 @@ Understanding the domain lets us:
 - Make sure our research question aligns the FRESCO & PICOT evaluation
 
 This folder gives context to our question:  
-**"How do respiratory and cardiovascular health outcomes vary across global cities
- categorized by their dominant air pollutant?"**
+**"How do respiratory and cardiovascular health outcomes in 2024 vary across
+global cities categorized by their dominant air pollutant?"**
 
 ---
 
