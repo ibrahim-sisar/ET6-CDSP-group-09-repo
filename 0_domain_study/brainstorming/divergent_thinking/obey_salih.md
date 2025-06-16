@@ -1,14 +1,19 @@
-# Domain Suggestion
+# 🌍 Domain Suggestion
 
-## Domain: Global Warming / Climate Change
+## 🌡️ Domain: Global Warming & Climate Change  
 
-Global warming refers to the rise in Earth’s average temperature due to
-greenhouse gas emissions, while climate change includes broader shifts like
-extreme weather and sea-level rise. The last decade was the warmest on record,
-and data shows increasing temperature trends and climate-related disasters.
-Using datasets and tools like ARIMA, clustering, and regression, researchers
-analyze patterns, forecast future warming, and compare regional impacts to guide
-climate resilience efforts.
+Global warming refers to the increase in Earth's average surface temperature due
+to the buildup of greenhouse gases like carbon dioxide (CO₂), methane (CH₄), and
+nitrous oxide (N₂O). Climate change includes not only rising temperatures but
+also extreme weather events, shifts in precipitation patterns, melting glaciers,
+and sea-level rise. The last decade has been the hottest in recorded history.
+
+📊 Data science plays a critical role in tracking, analyzing, and forecasting
+the impacts of global warming. Techniques such as time series forecasting
+(e.g., ARIMA), clustering, regression modeling, and spatial analysis are
+commonly used to interpret patterns and build predictive models.
+
+---
 
 ### Research Questions
 
