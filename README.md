@@ -34,10 +34,11 @@ experiences severe discomfort when staying in cities where it is polluted.
 Even short visits can mean weeks of relying on medications, constant coughing,
 and the simple wish to breathe without pain. For her and millions with
 similar and different health conditions, clean air isn’t just a preference,
-it’s a necessity.  
+it’s a necessity.
 **But is it feasible to find cities where the air is truly safe for
 vulnerable individuals?**  
-[Problem Statement link](0_domain_study/problem_statement.md)
+
+*Located in the `0_domain_study` folder — [`problem_statement.md`](0_domain_study/problem_statement.md)*
 
 ---
 
@@ -70,32 +71,32 @@ the city’s dominant air pollutant? (place holder for later)
   <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/189139604?s=88&v=4"
-           width="80" style="border-radius: 50%"><br>
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
       <a href="https://github.com/FalaqMajeed">Falaq Youniss</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/94265187?s=88&v=4"
-           width="80" style="border-radius: 50%"><br>
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
       <a href="https://github.com/Husayn01">Hussaini Ahmed</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/189241139?s=88&v=4"
-           width="80" style="border-radius: 50%"><br>
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
       <a href="https://github.com/linahKhayri">Linah Khayri</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/189270536?s=88&v=4"
-           width="80" style="border-radius: 50%"><br>
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
       <a href="https://github.com/ObayCipher">Obay Salih</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/189570008?s=88&v=4"
-           width="80" style="border-radius: 50%"><br>
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
       <a href="https://github.com/Adamx090">Salih Adam</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/189653861?s=88&v=4"
-           width="80" style="border-radius: 50%"><br>
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
       <a href="https://github.com/salihakalender">Saliha Kalender</a>
     </td>
   </tr>
