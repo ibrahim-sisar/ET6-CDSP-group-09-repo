@@ -59,9 +59,9 @@ limitations of current metrics like the AQI.
 ---
 
 [![Typing SVG][badge-6]](https://git.io/typing-svg)  
-Among the top global cities with the highest average AQI in **(Timeframe)**,
-how do respiratory and cardiovascular hospitalization rates differ based on
-the city’s dominant air pollutant? (place holder for later)
+**How do respiratory and cardiovascular health outcomes in 2024 vary across global cities categorized by their dominant air pollutant?**
+
+> This question stems from our shared concern about the growing impact of air pollution on public health worldwide. It holds personal significance for us, as we’ve witnessed firsthand how polluted environments affect the well-being of our own communities. Our research is grounded in the broader context of global health inequities and shaped by the practical limitations of a defined research timeframe and the scope of publicly available data
 
 ---
 
