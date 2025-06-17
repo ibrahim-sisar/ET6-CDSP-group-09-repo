@@ -21,7 +21,7 @@ commonly used to interpret patterns and build predictive models.
 
 🧠 *Understanding sources of emissions and exploring solutions for capture and reduction.*
 
-**Research Questions
+🔍**Research Questions**
 
 - What are the trends in CO₂ emissions globally and by
 sector (transport, energy, industry) from 1980–2024?
@@ -42,7 +42,7 @@ sector (transport, energy, industry) from 1980–2024?
 🧠 *Analyzing the shift from fossil fuels to renewable energy and its
 environmental implications.*
 
-**Research Questions
+🔍**Research Questions**
 
 - How is the global energy mix evolving, and what impact does this have on emissions?
 - What is the relationship between the adoption of renewable energy and the
@@ -63,7 +63,7 @@ emissions over time?
 🧠 *Exploring the dual role of geothermal energy in clean energy production
 and CO₂ mitigation.*
 
-**Research Questions**  
+🔍**Research Questions**
 
 - Can depleted oil and gas wells be repurposed for geothermal energy production?
 - What is the estimated reduction in CO₂ emissions when replacing fossil fuel
@@ -83,7 +83,7 @@ this approach?
 
 🧠 *Studying how temperature and CO₂ concentrations have evolved and how they correlate.*
 
-**Research Questions**  
+🔍**Research Questions**
 
 - How have global mean surface temperatures changed annually since 1900?
 - What is the statistical correlation between atmospheric CO₂ levels and
@@ -103,7 +103,7 @@ temperature anomalies?
 🧠 *Evaluating the environmental footprint of petroleum exploration and
 strategies for mitigation.*
 
-**Research Questions**  
+🔍**Research Questions**
 
 - What role does petroleum exploration play in regional CO₂ and methane emissions?
 - How can subsurface data and basin models be used to identify potential CCS
