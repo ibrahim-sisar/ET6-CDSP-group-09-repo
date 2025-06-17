@@ -97,3 +97,22 @@ temperature anomalies?
 - [World Bank Climate Data](https://data.worldbank.org/indicator/EN.ATM.GHGT.KT.CE)
 
 ---
+
+### 🛢️ Petroleum Geoscience & Climate Change  
+
+🧠 *Evaluating the environmental footprint of petroleum exploration and
+strategies for mitigation.*
+
+**Research Questions**  
+
+- What role does petroleum exploration play in regional CO₂ and methane emissions?
+- How can subsurface data and basin models be used to identify potential CCS
+storage sites?
+- What is the carbon footprint of upstream petroleum operations compared to
+renewable alternatives?
+
+📚 **Data Sources**
+
+- [IEA Methane Tracker](https://www.iea.org/reports/methane-tracker-2022)
+- [SPE Reservoir & GeoScienceWorld](https://pubs.geoscienceworld.org/)
+- [OGCI Reports – Oil & Gas Climate Initiative](https://www.ogci.com/reports/)
