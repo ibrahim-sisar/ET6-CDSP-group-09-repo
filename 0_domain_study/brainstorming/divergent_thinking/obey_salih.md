@@ -57,3 +57,43 @@ emissions over time?
 - [BP Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 ---
+
+### 🌋 Geothermal Energy from Depleted Oil Wells  
+
+🧠 *Exploring the dual role of geothermal energy in clean energy production
+and CO₂ mitigation.*
+
+**Research Questions**  
+
+- Can depleted oil and gas wells be repurposed for geothermal energy production?
+- What is the estimated reduction in CO₂ emissions when replacing fossil fuel
+energy with geothermal power?
+- What are the technical and economic barriers to large-scale deployment of
+this approach?
+
+📚 **Data Sources**
+
+- [U.S. DOE Geothermal Technologies Office](https://www.energy.gov/eere/geothermal/geothermal-technologies-office)
+- [International Geothermal Association (IGA)](https://www.geothermal-energy.org/)
+- [SPE Technical Papers & GeoScienceWorld](https://pubs.geoscienceworld.org/)
+
+---
+
+## 🌐 Global Warming & CO₂ Trends  
+
+🧠 *Studying how temperature and CO₂ concentrations have evolved and how they correlate.*
+
+**Research Questions**  
+
+- How have global mean surface temperatures changed annually since 1900?
+- What is the statistical correlation between atmospheric CO₂ levels and
+temperature anomalies?
+- Which countries or regions have experienced the most rapid warming trends?
+
+📚 **Data Sources**
+
+- [NASA GISTEMP](https://data.giss.nasa.gov/gistemp/)
+- [Our World in Data – CO₂ and Temperature](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
+- [World Bank Climate Data](https://data.worldbank.org/indicator/EN.ATM.GHGT.KT.CE)
+
+---
