@@ -65,9 +65,10 @@ A list of:
 | `background_review.md` | What’s already known about air pollution and health |
 | `key_terms.md` | Glossary of relevant terms |
 | `brainstorming` | Convergent and divergent thinking |
-|`sum_of_group_understanding.md`| general understanding and our shared knowledge|
-| `resources_links.md` | Useful links |
+| `sum_of_group_understanding.md`| general understanding and our shared knowledge|
 | `problem_statement.md` | Highlights the needs and the challenges |
+| `research_question.md` | A clear statement of the research question |
+| `resources_links.md` | Useful links |
 
 ---
 
