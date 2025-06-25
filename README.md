@@ -101,6 +101,11 @@ limitations of current metrics like the AQI.
            width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
       <a href="https://github.com/salihakalender">Saliha Kalender</a>
     </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/189177670?v=4"
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
+      <a href="https://github.com/Mohamedmxz">Mohamed Tilal</a>
+    </td>
   </tr>
 </table>
 
