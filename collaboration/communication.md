@@ -71,6 +71,7 @@ asynchronous communication channels.
 | _Hussaini Ahmed_ |10 AM – 3 PM|Everyday|
 | _Obey Saleh_ |10 AM - 8 PM|Everyday|
 | _Mohamed Tilal_ |3 AM - 2 PM|Everyday|
+| _Said Ibrahim_ |3 AM - 2 PM|Everyday|
 
 ## Communication Schedule
 
