@@ -92,14 +92,14 @@ turning **raw data into insights**.
 
 ### 🟫 **Mohamed Tilal**
 
-- Strengthen my ability to communicate ideas clearly, especially when explaining
-data and findings to both technical and non-technical audiences.
+- Get better at explaining my ideas in simple, clear ways — especially when
+talking about data.
 
 - Develop skills in asking the right research questions
 and learn how to explore those questions through data.
 
-- Improve my ability to work within diverse teams, by contributing, listening,
-and learning from teammates with different backgrounds.
+- Become more comfortable working with different kinds of people. I want to keep
+improving how I contribute and learn from teammates with different perspectives.
 
 - Deepen my understanding of the full data science project cycle from
 identifying problems to presenting insights with a focus on real world impact.
