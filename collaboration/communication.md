@@ -70,6 +70,7 @@ asynchronous communication channels.
 | _Falaq Youniss_ |4 AM - 11 AM / 2 PM - 7 PM|Everyday (except Friday)|
 | _Hussaini Ahmed_ |10 AM – 3 PM|Everyday|
 | _Obey Saleh_ |10 AM - 8 PM|Everyday|
+| _Mohamed Tilal_ |3 AM - 2 PM|Everyday|
 
 ## Communication Schedule
 
