@@ -89,3 +89,21 @@ turning **raw data into insights**.
   from domain understanding to final presentation.
 - Build confidence in **presenting insights**
   and contributing to **team strategy discussions**.
+
+### 🟫 **Mohamed Tilal**
+
+- Strengthen my ability to communicate ideas clearly, especially when explaining
+data and findings to both technical and non-technical audiences.
+
+- Develop skills in asking the right research questions
+and learn how to explore those questions through data.
+
+- Improve my ability to work within diverse teams, by contributing, listening,
+and learning from teammates with different backgrounds.
+
+- Deepen my understanding of the full data science project cycle from
+identifying problems to presenting insights with a focus on real world impact.
+
+- Build technical confidence by practicing with Python and by learning how to
+turn messy data into clear stories
+through visualization and interpretation.
