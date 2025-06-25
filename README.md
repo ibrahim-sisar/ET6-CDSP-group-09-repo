@@ -101,6 +101,36 @@ limitations of current metrics like the AQI.
            width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
       <a href="https://github.com/salihakalender">Saliha Kalender</a>
     </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/189177670?v=4"
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
+      <a href="https://github.com/Mohamedmxz">Mohamed Tilal</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/124207510?v=4"
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
+      <a href="https://github.com/SiSaR-Pal">Said Ibrahim</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/189233851?v=4"
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
+      <a href="https://github.com/MPKenley">Mervil Pierre</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/189204630?v=4"
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
+      <a href="https://github.com/Ridwanayinde">Ridwan Ayinde</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/189637313?v=4"
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
+      <a href="https://github.com/Mithchell509">Mithchell Lawensky</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/189621210?v=4"
+           width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
+      <a href="https://github.com/Safiya-hash">Safiya Hashimi</a>
+    </td>
   </tr>
 </table>
 
