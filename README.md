@@ -127,7 +127,7 @@ limitations of current metrics like the AQI.
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/189637313?v=4"
            width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
-      <a href="https://github.com/Mithchell509">Mithchell Lawensky</a>
+      <a href="https://github.com/Mithchell509">Mthchell Lawensky</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/189621210?v=4"
