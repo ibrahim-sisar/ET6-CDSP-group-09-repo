@@ -107,3 +107,20 @@ identifying problems to presenting insights with a focus on real world impact.
 - Build technical confidence by practicing with Python and by learning how to
 turn messy data into clear stories
 through visualization and interpretation.
+
+### 🟦 **Sa'id Ibrahim**
+
+- Explore how data science techniques can be applied to solve engineering  
+  problems through data collection, analysis, and model-based decision-making.
+
+- Improve the ability to present data-driven findings using clear visualizations,
+  concise summaries, and well-structured reports for diverse audiences.
+
+- Practice formulating structured research questions from complex problems and  
+  explore them using statistical and machine learning techniques.
+
+- Deepen hands-on experience with Python tools like `pandas`, `NumPy`,  
+  `scikit-learn`, and `Matplotlib` by working through full data workflows.
+
+- Learn to build complete, reproducible data science solutions from  
+  wrangling to modeling, with an emphasis on clarity and scalability.
