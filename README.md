@@ -90,6 +90,12 @@ By analyzing **pollution–health patterns** across diverse regions, we aim to p
 
 ---
 
+### Limitations of Our Model Approach
+
+We used country-level data, which means we may miss important local differences, like how air pollution affects some cities more than others. The study looks at PM₂.₅ and its link to health problems, but we don’t prove it causes them—we only show patterns. We included 25 countries with good data, but that means the results may not apply to all places. Also, some countries report health data differently, which can affect how accurate the comparisons are. Finally, we mention COVID-19 deaths for context, but we don’t say pollution caused them.
+
+---
+
 [![Typing SVG][badge-7]](https://git.io/typing-svg)
 
 <table>
