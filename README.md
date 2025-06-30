@@ -59,11 +59,34 @@ limitations of current metrics like the AQI.
 ---
 
 [![Typing SVG][badge-6]](https://git.io/typing-svg)  
->**How do respiratory and cardiovascular health outcomes vary across global cities in 2024 when categorized by their dominant air pollutant?**
+>**To what extent have ambient PM₂.₅ concentrations (2010–2019) influenced the burden of cardiovascular and respiratory diseases across countries with varying socio-demographic development levels, and how might this long-term exposure relate to COVID-19 mortality outcomes**
 
  This question stems from our shared concern about the growing impact of air pollution on public health worldwide. It holds personal significance for us, as we’ve witnessed firsthand how polluted environments affect the well-being of our own communities. Our research is grounded in the broader context of global health inequities and shaped by the practical limitations of a defined research timeframe and the scope of publicly available data  
 
 *Located in the `0_domain_study` folder — [`research_question.md`](0_domain_study/research_question.md)*
+
+---
+
+## 🧠 Non-Technical Explanation of Domain Modeling
+
+In this project, we study how **long-term exposure to PM2.5** affects
+**human health** across **25 countries**. We use **country-level PM2.5 data**
+and **disease burden estimates** for **respiratory and cardiovascular outcomes**
+from the **Global Burden of Disease (GBD) study**.
+
+We examine **trends in PM2.5 (2010–2019)** and their links to conditions like
+**asthma, heart disease, and stroke**. Our analysis also considers the
+**lag effect**—how past pollution levels may lead to health problems years later.
+
+Additionally, we explore whether **long-term PM2.5 exposure** is related to
+**higher COVID-19 mortality**, possibly due to pre-existing lung or heart damage.
+We include the **Socio-demographic Index (SDI)** to assess how
+**development level and healthcare access** influence these relationships.
+
+By analyzing **pollution–health patterns** across diverse regions, we aim to produce
+**clear, actionable insights** for public health.  
+
+**Clean air is not just about the environment—it’s about protecting people’s lives.**
 
 ---
 
@@ -101,6 +124,9 @@ limitations of current metrics like the AQI.
            width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
       <a href="https://github.com/salihakalender">Saliha Kalender</a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/189177670?v=4"
            width="80" height="80" style="border-radius: 50%; object-fit: cover;"><br>
