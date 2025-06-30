@@ -1,8 +1,7 @@
-<h1 style="display: flex; align-items: center; justify-content: space-between;">
-  <span>Data Exploration</span>
-  <img src="https://process.filestackapi.com/cache=expiry:max/N6YNXaFGSdqOlgeJbBwF"
-       alt="Data Exploration Image"
-       style="height: 50px; width: 50px; border-radius: 50%; object-fit: cover; margin-left: 10px;">
+<h1 style="display: flex; align-items: center;">
+  Data Cleaning And Preparation
+  <img src="../notes/images/data_exploration.gif" alt="data"
+  style="height:50px; margin-left:10px;">
 </h1>
 
 ## 🧭 Purpose
