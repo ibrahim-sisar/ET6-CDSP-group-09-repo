@@ -18,7 +18,7 @@ Any visual outputs are saved in this folder or linked below.
 
 ## 📄 Scripts Overview
 
-### [`explore_health_burdens_daly.ipynb`]("3_data_exploration/explore_health_burdens.ipynb")
+### [`explore_health_burdens_daly.ipynb`](explore_health_burdens.ipynb)
 
 - **Dataset**: `clean_gbd_health.csv` (from `0_datasets/`)
 - **Content**:
@@ -27,7 +27,7 @@ Any visual outputs are saved in this folder or linked below.
   - Descriptive statistics and grouped summaries by disease, country, and year.
   - Visualizations: heatmaps and stacked bar chart plots.
 
-### [`explore_pm25_sdi.ipynb`]("3_data_exploration/explore_pm25_sdi.ipynb")
+### [`explore_pm25_sdi.ipynb`](explore_pm25_sdi.ipynb)
 
 - **Dataset**: `merged_sdi_pm25_data.csv`, `cleaned_sdi_data.csv`
 - **Content**:
@@ -35,14 +35,14 @@ Any visual outputs are saved in this folder or linked below.
   - Descriptive distributions, pm2.5 over time by countries, distributing SDI Tiers
   - Visualizations: scatter plot, Tiers, line plots
 
-### [`explore_final_merged_dataset.ipynb`](explore_final_merged_dataset.ipynb)
+### [`EDA_gbd_pm25_sdi.ipynb`](EDA_gbd_pm25_sdi.ipynb)
 
 - **Dataset**: `final_gbd_pm25_sdi_data.csv`
 - **Content**:
   - Final dataset merging PM₂.₅, SDI, and health burdens for 25 countries (2010–2019).
   - Focused exploration of trends in exposure and associated disease burdens.
   - Summary statistics and exploratory figures linking exposure and burden.
-  - Visualizations:
+  - Visualizations: bar charts, heatmaps, scatter plots
 
 ---
 
