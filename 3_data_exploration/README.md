@@ -5,7 +5,7 @@
        style="height: 50px; width: 50px; border-radius: 50%; object-fit: cover; margin-left: 10px;">
 </h1>
 
-## 🧭 Purpose
+## 📌 Purpose
 
 This folder contains notebooks and scripts used to **explore the cleaned datasets**
 from `0_datasets/`.  
