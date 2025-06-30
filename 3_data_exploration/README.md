@@ -4,7 +4,7 @@
   style="height:50px; margin-left:10px;">
 </h1>
 
-## 🧭 Purpose
+## 📌 Purpose
 
 This folder contains notebooks and scripts used to **explore the cleaned datasets**
 from `0_datasets/`.  
@@ -48,8 +48,8 @@ Any visual outputs are saved in this folder or linked below.
 
 ## 📊 Figures and Outputs
 
-> Below are selected exploratory outputs generated from the above scripts:
-
+If you'd like a clear overview of the scriptsun in the exploratory notebooks,
+you can find all the generated figures and outputs [The link](../../3_data_exploration/figures)
 ---
 
 ## ⚠️ Reproducibility Notice
