@@ -50,6 +50,7 @@ Any visual outputs are saved in this folder or linked below.
 
 If you'd like a clear overview of the scriptsun in the exploratory notebooks,
 you can find all the generated figures and outputs [The link](../../3_data_exploration/figures)
+
 ---
 
 ## ⚠️ Reproducibility Notice
