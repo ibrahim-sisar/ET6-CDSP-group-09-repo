@@ -67,8 +67,7 @@ limitations of current metrics like the AQI.
 
 ---
 
-[![Typing SVG][badge-8]](https://git.io/typing-svg)
-
+[![Typing SVG][badge-8]](https://git.io/typing-svg)  
 In this project, we study how **long-term exposure to PM2.5** affects
 **human health** across **25 countries**. We use **country-level PM2.5 data**
 and **disease burden estimates** for **respiratory and cardiovascular outcomes**
@@ -90,14 +89,12 @@ By analyzing **pollution–health patterns** across diverse regions, we aim to p
 
 ---
 
-[![Typing SVG][badge-9]](https://git.io/typing-svg)
-
+[![Typing SVG][badge-9]](https://git.io/typing-svg)  
 We used country-level data, which means we may miss important local differences, like how air pollution affects some cities more than others. The study looks at PM₂.₅ and its link to health problems, but we don’t prove it causes them—we only show patterns. We included 25 countries with good data, but that means the results may not apply to all places. Also, some countries report health data differently, which can affect how accurate the comparisons are. Finally, we mention COVID-19 deaths for context, but we don’t say pollution caused them.
 
 ---
 
-[![Typing SVG][badge-10]](https://git.io/typing-svg)
-
+[![Typing SVG][badge-10]](https://git.io/typing-svg)  
 The [`1_datasets`](1_datasets) folder includes all datasets used throughout the project, including:
 
 - **Raw data**: Unmodified source files  
@@ -108,8 +105,7 @@ The [`1_datasets`](1_datasets) folder includes all datasets used throughout the 
 
 ---
 
-[![Typing SVG][badge-11]](https://git.io/typing-svg)
-
+[![Typing SVG][badge-11]](https://git.io/typing-svg)  
 The [`2_data_preparation`](2_data_preparation/) folder contains all scripts and notebooks used to:
 
 - Clean and filter raw datasets  
@@ -120,8 +116,7 @@ The [`2_data_preparation`](2_data_preparation/) folder contains all scripts and 
 
 ---
 
-[![Typing SVG][badge-11]](https://git.io/typing-svg)
-
+[![Typing SVG][badge-12]](https://git.io/typing-svg)  
 The [`3_data_exploration`](3_data_exploration/) folder includes notebooks used for:
 
 - Exploring PM₂.₅ trends and health burdens  
@@ -212,4 +207,5 @@ The [`3_data_exploration`](3_data_exploration/) folder includes notebooks used f
 [badge-8]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Non-Technical+Explanation+of+domain+Modeling
 [badge-9]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Limitations+of+Our+Model+Approach
 [badge-10]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Overview
-[badge-11]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Exploration
+[badge-11]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Preparation
+[badge-12]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Exploration
