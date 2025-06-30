@@ -90,7 +90,7 @@ Creates intermediate merged dataset:
 
 ---
 
-### [`merge_final_gbd_pm25.ipynb`](merge_final_gbd_pm25.ipynb)
+### [`gbd_health_sdi_airpollution_merge.ipynb.ipynb`](gbd_health_sdi_airpollution_merge.ipynb.ipynb)
 
 Merges disease burden data with PM₂.₅ and SDI:
 
@@ -100,17 +100,6 @@ Merges disease burden data with PM₂.₅ and SDI:
 - Prepares final dataset for pre-COVID burden analysis  
 
 ➡️ Output:  
-[`final_merged_gbd_pm25.csv`](../1_datasets/final_datasets/final_merged_gbd_pm25.csv)
+[`final_gbd_pm25_sdi.csv`](../1_datasets/final_datasets/final_gbd_pm25_sdi.csv)
 
 ---
-
-### [`merge_final_with_covid.ipynb`](merge_final_with_covid.ipynb)
-
-Merges COVID-19 mortality with PM₂.₅ and SDI:
-
-- Starts from `merged_sdi_pm25_data.csv`  
-- Adds COVID-19 death data (ages 15–49, 2020–2021)  
-- Enables analysis of long-term exposure and COVID deaths  
-
-➡️ Output:  
-[`final_merged_with_covid.csv`](../1_datasets/final_datasets/final_merged_with_covid.csv)
