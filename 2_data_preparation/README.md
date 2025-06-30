@@ -4,7 +4,7 @@
 </h1>
 
 This folder contains all Python scripts and Jupyter notebooks used to clean,
-reformat, and prepare raw datasets for our research project:
+reformat, and prepare raw datasets for our research project
 
 ## 📌 Purpose  
 
