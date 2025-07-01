@@ -148,8 +148,6 @@ This study focuses on the following:
 - COVID-19 mortality may be underreported due to testing gaps or attribution issues.
 - DALYs and death rates may overlap or reflect indirect or multi-cause outcomes.
 
----
-
 ### Recreation of Dataset
 
 To recreate this dataset:
@@ -157,3 +155,26 @@ To recreate this dataset:
 1. Visit: <https://vizhub.healthdata.org/gbd-results/>
 2. Set the following parameters stated in the structure above appropriately
 3. Click **"Download Results"** to export the data as a CSV file.
+
+## Public Hosting of Prepared Dataset
+
+For this milestone, we are hosting our prepared dataset directly within this GitHub
+repository. As our final dataset's size is under 100MB, this method provides the
+most direct and efficient access for review and reproducibility.
+
+To ensure our data preparation process is transparent, we have organized our data
+into the following structure:
+
+1. Raw Datasets: This folder contains the original, untouched data as collected
+   from our sources.
+   - Location: [`raw_datasets`](../1_datasets/raw_datasets)
+
+1. Cleaned Datasets: This folder holds intermediate datasets and the scripts used
+   to process and clean the raw data. This shows our step-by-step workflow.
+   - Location: [`cleaned_datasets`](../1_datasets/cleaned_datasets)
+
+1. Final Dataset: This folder contains the final **prepared**, analysis-ready dataset
+   that is the primary deliverable for this milestone.
+   - Location: [`final_datasets`](../1_datasets/final_datasets)
+
+A full description of the variables in this file is available in our Data Dictionary
