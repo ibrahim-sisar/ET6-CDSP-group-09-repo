@@ -1,5 +1,5 @@
 <h1 style="display: flex; align-items: center;">
-  Data Cleaning And Preparation
+  Data Exploration
   <img src="../notes/images/data_exploration.gif" alt="data"
   style="height:50px; margin-left:10px;">
 </h1>
