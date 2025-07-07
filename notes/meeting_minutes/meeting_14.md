@@ -1,4 +1,4 @@
-# 📝 Meeting 24 Minutes  
+# 📝 Meeting 14 Minutes  
 
 **Date:** July 7, 2025  
 
