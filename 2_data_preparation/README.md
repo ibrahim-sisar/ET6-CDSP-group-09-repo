@@ -35,11 +35,10 @@ and comprehensive dataset ready for analysis
 
 ➡️ **Outputs:**  
 
-- [`pm25_all_countries_cleaned.csv`](../1_datasets/cleaned_datasets/pm25_all_countries_cleaned.csv)  
-- [`sdi_data_2010_2019_cleaned.csv`](../1_datasets/cleaned_datasets/sdi_data_2010_2019_cleaned.csv)  
-- [`covid_all_countries_cleaned.csv`](../1_datasets/cleaned_datasets/covid_all_countries_cleaned.csv)  
+- [`pm25_all_countries_cleaned.csv`](../1_datasets/cleaned_datasets/pm25_all_countries_cleaned.csv)
+- [`sdi_data_2010_2019_cleaned.csv`](../1_datasets/cleaned_datasets/sdi_data_2010_2019_cleaned.csv)
+- [`covid_all_countries_cleaned.csv`](../1_datasets/cleaned_datasets/covid_all_countries_cleaned.csv)
 - [`final_merged_covid.csv`](../1_datasets/final_datasets/final_merged_covid.csv)
-—
 the fully merged dataset integrating all three sources  
 
 ---
