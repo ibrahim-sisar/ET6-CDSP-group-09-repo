@@ -21,85 +21,43 @@ with clear, descriptive filenames
 
 ## 📄 Scripts Overview
 
-### [`pm25_annual_concentration_data_cleaning.ipynb`](pm25_annual_concentration_data_cleaning.ipynb)
+### [`covid_deaths_sdi_pm25_all_countries.ipynb`](covid_deaths_sdi_pm25_all_countries.ipynb)
 
-Cleans the WHO ambient PM₂.₅ dataset:
+This notebook performs comprehensive data cleaning and integration across multiple
+datasets:
 
-- Filters for years 2010–2019  
-- Selects 25 target countries  
-- Handles missing or unreliable values  
-- Renames and formats columns for merging  
+- Cleans the WHO ambient PM₂.₅ dataset by filtering relevant years, handling
+missing values, and standardizing column formats  
+- Cleans the SDI (Socio-Demographic Index) dataset, including data for 2020  
+- Cleans the COVID-19 deaths dataset to ensure consistency and proper formatting
+- Merges all three cleaned datasets on `Country` and `Year` to produce a unified
+and comprehensive dataset ready for analysis  
 
-➡️ Output:  
-[`cleaned_pm25_data.csv`](../1_datasets/cleaned_datasets/cleaned_pm25_data.csv)
+➡️ **Outputs:**  
 
----
-
-### [`covid_death_data_cleaning.ipynb`](covid_death_data_cleaning.ipynb)
-
-Processes IHME GBD data on COVID-19 mortality:
-
-- Filters deaths attributed to COVID-19  
-- Focuses on age group 15–49  
-- Keeps only years 2020 and 2021  
-- Filters for the 25 study countries  
-- Cleans and renames for merging  
-
-> Used to explore links between long-term PM₂.₅ exposure and COVID-19 deaths  
-
-➡️ Output:  
-[`cleaned_death.csv`](../1_datasets/cleaned_datasets/cleaned_death.csv)
+- [`pm25_all_countries_cleaned.csv`](../1_datasets/cleaned_datasets/pm25_all_countries_cleaned.csv)  
+- [`sdi_data_2010_2019_cleaned.csv`](../1_datasets/cleaned_datasets/sdi_data_2010_2019_cleaned.csv)  
+- [`covid_all_countries_cleaned.csv`](../1_datasets/cleaned_datasets/covid_all_countries_cleaned.csv)  
+- [`final_merged_covid.csv`](../1_datasets/final_datasets/final_merged_covid.csv)
+—
+the fully merged dataset integrating all three sources  
 
 ---
 
-### [`cleaned_sdi_by_country_year_2010_2019.ipynb`](cleaned_sdi_by_country_year_2010_2019.ipynb)
+### [`clean_gbd_and_merge_all.ipynb`](clean_gbd_and_merge_all.ipynb)
 
-Prepares Socio-Demographic Index (SDI) data:
+This notebook focuses on cleaning and merging health outcomes data with SDI and
+PM₂.₅ datasets for the period **2010–2019**:
 
-- Extracts mean SDI values by country and year  
-- Filters for 25 study countries  
-- Prepares for grouping/stratification in analysis  
+- Cleans the health outcomes dataset by filtering relevant years, handling
+missing values, and standardizing column formats  
+- Cleans and prepares the SDI and PM₂.₅ datasets for the same time period  
+- Merges all three datasets on `Country` and `Year` to create a consolidated
+dataset covering mutual countries and years  
 
-➡️ Output:  
-[`cleaned_sdi_data.csv`](../1_datasets/cleaned_datasets/cleaned_sdi_data.csv)
+➡️ **Outputs:**  
 
----
-
-### [`clean_gbd_health_outcomes.ipynb`](clean_gbd_health_outcomes.ipynb)
-
-Processes GBD data on disease burden:
-
-- Focuses on cardiovascular and respiratory diseases  
-- Filters metrics where PM₂.₅ is a contributing risk  
-
-➡️ Output:  
-[`cleaned_gbd_resp_cardio.csv`](../1_datasets/cleaned_datasets/cleaned_gbd_resp_cardio.csv)
-
----
-
-### [`merge_sdi_pm25.ipynb`](merge_sdi_pm25.ipynb)
-
-Creates intermediate merged dataset:
-
-- Combines SDI and PM₂.₅ data (2010–2019)  
-- Merges on Country and Year  
-- Used as base for merging with GBD and COVID data  
-
-➡️ Output:  
-[`merged_sdi_pm25_data.csv`](../1_datasets/cleaned_datasets/merged_sdi_pm25_data.csv)
-
----
-
-### [`gbd_health_sdi_airpollution_merge.ipynb.ipynb`](gbd_health_sdi_airpollution_merge.ipynb.ipynb)
-
-Merges disease burden data with PM₂.₅ and SDI:
-
-- Starts from `merged_sdi_pm25_data.csv`  
-- Adds GBD metrics data (2010–2019)  
-- Merges on Country and Year  
-- Prepares final dataset for pre-COVID burden analysis  
-
-➡️ Output:  
-[`final_gbd_pm25_sdi.csv`](../1_datasets/final_datasets/final_gbd_pm25_sdi.csv)
+- [`final_sdi_pm25_gbd`](../1_datasets/final_datasets/final_sdi_pm25_gbd.csv)
+— the fully merged dataset integrating health, SDI, and PM₂.₅ data  
 
 ---
