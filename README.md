@@ -125,7 +125,7 @@ The [`3_data_exploration`](3_data_exploration/) folder includes notebooks used f
 
 - Exploring PM₂.₅ trends and health burdens  
 - Visualizing key relationships and patterns  
-- Saving figures to the [`figures`](3_data_exploration/figures) folder
+- Saving figures to the [`figures`](3_data_exploration/figures_1) folder
 
 ---
 

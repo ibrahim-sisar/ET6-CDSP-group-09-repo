@@ -18,38 +18,33 @@ Any visual outputs are saved in this folder or linked below.
 
 ## 📄 Scripts Overview
 
-### [`explore_health_burdens_daly.ipynb`](explore_health_burdens.ipynb)
+### [`covid_deaths_pm25_sdi_eda.ipynb`](covid_deaths_pm25_sdi_eda.ipynb)
 
-- **Dataset**: `clean_gbd_health.csv` (from `0_datasets/`)
+- **Dataset**: `final_merged_covid_pm25_sdi.csv`
 - **Content**:
-  - Explores health burden data (DALYs) attributed to ambient PM₂.₅ exposure.
-  - Focus on respiratory and cardiovascular disease burdens.
-  - Descriptive statistics and grouped summaries by disease, country, and year.
-  - Visualizations: heatmaps and stacked bar chart plots.
+  - Explored and visualized the cleaned, merged dataset combining COVID-19 death
+  rates, PM2.5 concentrations, and Socio-Demographic Index (SDI).
 
-### [`explore_pm25_sdi.ipynb`](explore_pm25_sdi.ipynb)
+  - Conducted correlation analysis to investigate potential relationships between
+SDI, PM2.5 exposure, and COVID death rate.
+  - Created visual summaries (heatmaps, scatter plots, etc.) to highlight trends
+  and outliers.
 
-- **Dataset**: `merged_sdi_pm25_data.csv`, `cleaned_sdi_data.csv`
+### [`eda_sdi_gbd_pm25.ipynb`](eda_sdi_gbd_pm25.ipynbb)
+
+- **Dataset**: `final_sdi_pm25_gbd.csv`
 - **Content**:
-  - Explores spatial and temporal variation in PM₂.₅ and SDI (Socio-demographic Index).
-  - Descriptive distributions, pm2.5 over time by countries, distributing SDI Tiers
-  - Visualizations: scatter plot, Tiers, line plots
-
-### [`EDA_gbd_pm25_sdi.ipynb`](EDA_gbd_pm25_sdi.ipynb)
-
-- **Dataset**: `final_gbd_pm25_sdi_data.csv`
-- **Content**:
-  - Final dataset merging PM₂.₅, SDI, and health burdens for 25 countries (2010–2019).
+  - Final dataset merging PM₂.₅, SDI, and health burdens for diverse countries (2010–2019).
   - Focused exploration of trends in exposure and associated disease burdens.
   - Summary statistics and exploratory figures linking exposure and burden.
-  - Visualizations: bar charts, heatmaps, scatter plots
+  - Visualizations: bar charts, heatmaps, scatter plots and correlation matrix.
 
 ---
 
 ## 📊 Figures and Outputs
 
 If you'd like a clear overview of the scriptsun in the exploratory notebooks,
-you can find all the generated figures and outputs [The link](../../3_data_exploration/figures)
+you can find all the generated figures and outputs [The link](../../3_data_exploration/figures_1)
 
 ---
 
