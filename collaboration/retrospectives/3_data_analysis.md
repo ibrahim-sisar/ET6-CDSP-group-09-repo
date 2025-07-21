@@ -180,6 +180,8 @@ SDI-driven model that offered more robust and interpretable outputs.
   Team coordination was okay, but there’s room to improve communication and
   workflow, especially in early planning stages
 
+---
+
 ### 👤 Falaq Majeed  
 
 - 🧠 **What I learned**  
@@ -221,6 +223,8 @@ SDI-driven model that offered more robust and interpretable outputs.
   - Earlier alignment on team planning
   Our collaboration was effective overall, but earlier alignment on goals,
   roles, and timelines could’ve prevented delays and made the workflow smoother.
+
+---
 
 ### 👤 Said Abualroos  
 
