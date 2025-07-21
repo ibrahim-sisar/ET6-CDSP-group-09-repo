@@ -110,7 +110,7 @@ Several independent and peer-reviewed studies support this:
 - [Pozzer et al. (2020)][2]  
 
 [1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7277007/
-[2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7277007/  
+[2]: https://academic.oup.com/cardiovascres/article/116/14/2247/5940460  
 
 Even though our analysis alone doesn’t establish a strong causal relationship,
 it contributes to a broader scientific understanding that long-term air
