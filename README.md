@@ -98,6 +98,22 @@ We used country-level data, which means we may miss important local differences,
 
 ---
 
+## Non Technical Explanation of Data Analysis
+
+Our study shows that **long-term exposure to fine air pollution particles (PM₂.₅) from 2010 to 2019** has had a clear impact on public health—especially **heart and lung diseases**. Countries with ****higher pollution levels** generally had **worse health outcomes**, and this effect was **stronger in less developed nations**.
+
+Pollution’s impact wasn’t random. It followed consistent patterns across models, with the **strongest effects** seen in **cardiovascular disease**. Countries like Egypt and Afghanistan faced both high pollution and high health burdens, revealing global health inequalities.
+
+We also found that long-term pollution was **modestly but significantly associated with higher COVID-19 death rates in 2020**. This suggests that air pollution may increase vulnerability during pandemics, especially in countries with **weaker health systems**.
+
+Encouragingly, pollution and disease rates have **declined** over time, showing real progress. Still, long-term pollution leaves lasting effects, especially in vulnerable populations.
+
+**Cleaner air saves lives, and direct pollution reduction is vital where people are most at risk.**
+
+![PM2.5 vs Health Impact](./4_data_analysis/pm25_health_impact_analysis/figures/eda_figures/fig_05_pm25_vs_dalys_by_sdi.png)
+
+---
+
 [![Typing SVG][badge-10]](https://git.io/typing-svg)  
 The [`1_datasets`](1_datasets) folder includes all datasets used throughout the project, including:
 
@@ -126,6 +142,16 @@ The [`3_data_exploration`](3_data_exploration/) folder includes notebooks used f
 - Exploring PM₂.₅ trends and health burdens  
 - Visualizing key relationships and patterns  
 - Saving figures to the [`figures`](3_data_exploration/figures_1) folder
+
+---
+
+## Collaboration Framework
+
+- [Our Norms](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/blob/main/collaboration/README.md)
+- [Our Communication](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/blob/main/collaboration/communication.md)
+- [Our Constraints](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/blob/main/collaboration/constraints.md)
+- [Our Learning-goals](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/blob/main/collaboration/learning_goals.md)
+- [Our Retrospectives](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/tree/main/collaboration/retrospectives)
 
 ---
 
