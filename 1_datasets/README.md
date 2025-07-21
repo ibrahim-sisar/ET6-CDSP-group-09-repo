@@ -85,7 +85,7 @@ Each row in the dataset represents PM2.5 data for a specific **country** and **y
 This dataset is easily downloadable in CSV format from the source link above.
 It contains country-level, population-weighted annual averages for urban PM2.5 concentrations.
 
-## Socio-Demographic Index (SDI) Dataset
+## 2. Socio-Demographic Index (SDI) Dataset
 
 This dataset provides annual Socio-demographic Index (SDI) values from 1950 to
 2021 across global, regional, and national locations. SDI is a composite metric
@@ -115,7 +115,7 @@ Each component is normalized between 0 and 1, and the final SDI value ranges fro
 
 Each row in the dataset represents SDI data for a specific **location**, **year**.
 
-#### Key Columns
+#### SDI Dataset Columns
 
 | Column | Description |
 |--------|-------------|
@@ -131,13 +131,13 @@ Each row in the dataset represents SDI data for a specific **location**, **year*
 | `lower_value` | Lower bound of the estimate |
 | `upper_value` | Upper bound of the estimate |
 
-#### Additional Notes
+#### Additional Notes on SDI Dataset
 
 - The dataset spans from **1950 to 2021**, allowing for long-term trend analysis.
 - Only uses all ages and both sexes for the estimates
 - Measurements reflect **normalized development indices**.
 
-### Flaws and limitations
+### SDI Dataset Flaws and limitations
 
 - Although SDI is a useful summary measure, it may not capture nuanced inequalities
   within countries or across subpopulations.
@@ -145,12 +145,12 @@ Each row in the dataset represents SDI data for a specific **location**, **year*
 - Uniformity of age/sex dimensions, while simplifying use, does not imply meaningful
   variability across those categories in this dataset.
 
-### Dataset Recreation
+### SDI Dataset Recreation
 
 This dataset is downloadable in CSV format from the IHME Global Health Data Exchange
 (source link provided above).
 
-## 2. Health Dataset — IHME Global Burden of Disease (GBD)
+## 3. Health Dataset — IHME Global Burden of Disease (GBD)
 
 This dataset provides annual estimates of the burden of cardiovascular and
 respiratory diseases across countries from 2010 to 2019, with additional data on
@@ -158,12 +158,12 @@ COVID-19 mortality for 2020–2021. It includes **standardized health metrics** 
 allow for meaningful comparison across countries regardless of population size or
 healthcare system.
 
-### Dataset Source
+### GBD Dataset Source
 
 Institute for Health Metrics and Evaluation (IHME)  
 [Global Burden of Disease (GBD) Results Tool](https://vizhub.healthdata.org/gbd-results/)
 
-### Measurement Method
+### GBD Measurement Method
 
 GBD estimates are derived using:
 
@@ -178,12 +178,12 @@ techniques (`DisMod-MR`) to estimate values based on related and regional data.T
 ensures internally consistent estimates, even in countries with weak health surveillance
 systems.
 
-### Dataset Structure
+### GBD Dataset Structure
 
 Each row represents the burden of a specific disease for a particular country and
 year.
 
-#### Key Columns of Datasets
+#### GBD Dataset Columns
 
 | Column       | Description                                               |
 |--------------|-----------------------------------------------------------|
@@ -196,14 +196,13 @@ year.
 | `GBD Estimate`| By cause of death or risk factor                 |
 | `Age Group`  | Age-standardized used for comparative analysis |
 
-This study focuses on the following:
+#### Additional Notes on GBD Dataset
 
-- Cardiovascular Diseases with focus on stroke
-- Chronic Respiratory Diseases
-- COVID-19 Mortality, a sub dataset included for exploratory analysis only (2020–2021).
-
-#### Additional Notes About the Dataset
-
+- This study focuses on the following:
+  - Cardiovascular Diseases with focus on stroke
+  - Chronic Respiratory Diseases
+  - COVID-19 Mortality, a sub dataset included for exploratory analysis only (2020–2021).
+  
 - **Measures:**
   - **DALYs**: Combined years lost due to death (YLLs) and disability (YLDs)  
   - **YLLs**: Years of life lost due to premature mortality  
@@ -217,14 +216,14 @@ This study focuses on the following:
 
 - The data uses **age-standardized** rates to control for demographic differences.
 
-### Flaws and Limitations
+### GBD Dataset Flaws and Limitations
 
 - In countries with weak health infrastructure, estimates rely heavily on modeling.
   This increases uncertainty (wider confidence intervals).
 - COVID-19 mortality may be underreported due to testing gaps or attribution issues.
 - DALYs and death rates may overlap or reflect indirect or multi-cause outcomes.
 
-### Recreation of Dataset
+### GBD Dataset Recreation
 
 To recreate this dataset:
 
