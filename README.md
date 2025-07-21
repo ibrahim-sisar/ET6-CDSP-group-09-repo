@@ -128,6 +128,24 @@ The [`3_data_exploration`](3_data_exploration/) folder includes notebooks used f
 - Saving figures to the [`figures`](3_data_exploration/figures_1) folder
 
 ---
+[![Typing SVG][badge-13]](https://git.io/typing-svg)  
+Our analysis demonstrates that the Socio-Demographic Index (SDI) is the strongest predictor of country-level health burdens measured by Disability-Adjusted Life Years (DALYs), consistently explaining the largest share of variance across all-cause, cardiovascular, stroke, and respiratory diseases.
+Ambient PM₂.₅ exposure is a significant secondary predictor, particularly for cardiovascular and stroke DALYs, where lagged (1–2 years) and moving-average (3- and 5-year) exposures improve model performance. This indicates that the health impacts of air pollution accumulate over multiple years rather than manifesting immediately.
+Furthermore, the interaction between SDI and PM₂.₅ reveals that countries with lower socio-demographic development experience greater vulnerability to pollution-related health effects, with stronger marginal impacts observed in these populations.
+Regarding COVID-19 mortality, using 2020 death data and a 10-year average of PM₂.₅ exposure, the study found a modest but consistent association between pollution and increased mortality rates. Although the predictive power was lower than for DALYs, PM₂.₅ and SDI remained relevant predictors across multiple modeling approaches, suggesting that air pollution may exacerbate vulnerability to acute respiratory disease outcomes.
+
+---
+[![Typing SVG][badge-14]](https://git.io/typing-svg)  
+
+## Analysis Overview
+
+We conducted a multi-phase statistical and machine learning analysis to evaluate how  PM₂.₅ air pollution exposure influenced disease burden and COVID-19 mortality globally, while accounting for development levels using the Socio-Demographic Index (SDI).
+
+1. Exploratory Data Analysis (EDA) to visualize trends in PM₂.₅, DALYs, SDI, and COVID-19 deaths.
+2. Multiple Linear Regression (MLR) to assess baseline associations.
+3. Random Forest models to detect nonlinearities and improve predictive performance.
+4. Spline and Quantile Regression to evaluate nuanced interaction and distributional effects.
+5. Interaction Models tested whether PM₂.₅ impacts differ across SDI levels
 
 [![Typing SVG][badge-7]](https://git.io/typing-svg)
 
@@ -213,3 +231,5 @@ The [`3_data_exploration`](3_data_exploration/) folder includes notebooks used f
 [badge-10]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Overview
 [badge-11]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Preparation
 [badge-12]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Exploration
+[badge-13]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=436&pause=1000&color=B6871ED2&width=435&lines=A+clear+statement+of+our+research+conclusion
+[badge-14]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B6871ED2&width=465&height=34&lines=Short+summary+of+our+analysis+approach
