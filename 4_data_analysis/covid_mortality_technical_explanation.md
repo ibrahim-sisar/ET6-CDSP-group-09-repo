@@ -106,19 +106,11 @@ increases vulnerability to COVID-19 mortality and severity.
 
 Several independent and peer-reviewed studies support this:
 
-- [Wu et al. (2020)][1] – A 1 µg/m³ increase in PM₂.₅ was associated with an 11%
-increase in COVID-19 death rates across U.S. counties.  
-- [Pozzer et al. (2020)][2] – Estimated that 15% of global COVID-19 deaths could
-be attributed to long-term exposure to ambient air pollution.  
-- [Stieb et al. (2020)][3] – Found that PM₂.₅ exposure was associated with
-increased hospitalization and death from COVID-19 in Canada.  
-- [Travaglio et al. (2021)][4] – In England, higher PM₂.₅ levels were
-significantly associated with increased COVID-19 severity and mortality.  
+- [Wu et al. (2020)][1]
+- [Pozzer et al. (2020)][2]  
 
-[1]: https://www.hsph.harvard.edu/c-change/subtopics/coronavirus-and-pollution/  
-[2]: https://www.sciencedirect.com/science/article/pii/S0048969720373657  
-[3]: https://pubmed.ncbi.nlm.nih.gov/32750394/  
-[4]: https://doi.org/10.1016/j.envpol.2020.115834  
+[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7277007/
+[2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7277007/  
 
 Even though our analysis alone doesn’t establish a strong causal relationship,
 it contributes to a broader scientific understanding that long-term air
