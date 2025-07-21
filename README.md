@@ -109,8 +109,7 @@ Additionally, differences in how countries report health and mortality data may 
 
 ---
 
-[![Typing SVG][badge-16]](https://git.io/typing-svg)
-
+[![Typing SVG][badge-20]](https://git.io/typing-svg)  
 Our study shows that **long-term exposure to fine air pollution particles (PM₂.₅) from 2010 to 2019** has had a clear impact on public health—especially **heart and lung diseases**. Countries with ****higher pollution levels** generally had **worse health outcomes**, and this effect was **stronger in less developed nations**.
 
 Pollution’s impact wasn’t random. It followed consistent patterns across models, with the **strongest effects** seen in **cardiovascular disease**. Countries like Egypt and Afghanistan faced both high pollution and high health burdens, revealing global health inequalities.
@@ -203,7 +202,7 @@ Despite these caveats, the evidence base across multiple modeling frameworks con
 
 ---
 
-## [![Typing SVG][badge-15]](https://git.io/typing-svg)
+## [![Typing SVG][badge-19]](https://git.io/typing-svg)
 
 - [Our Norms](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/blob/main/collaboration/README.md)
 - [Our Communication](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/blob/main/collaboration/communication.md)
@@ -297,11 +296,11 @@ Despite these caveats, the evidence base across multiple modeling frameworks con
 [badge-10]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Overview
 [badge-11]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Preparation
 [badge-12]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Exploration
-[badge-13]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Conclusion+Statemen
+[badge-13]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Conclusion+Statement
 [badge-14]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Short+Summary+of+Our+Analysis+Approach
 [badge-15]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Confidence+and+Uncertainty
 [badge-16]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Limitations+Our+Work+Has
 [badge-17]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Future+Research+Directions
 [badge-18]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Data+Analysis
-[badge-19]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B6871ED2&width=435&lines=Collaboration+Framework
-[badge-20]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B6871ED2&width=520&lines=Non+Technical+Explanation+of+Data+Analysis
+[badge-19]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=520&lines=Our+Collaboration
+[badge-20]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=520&lines=Non+Technical+Explanation+of+Data+Analysis
