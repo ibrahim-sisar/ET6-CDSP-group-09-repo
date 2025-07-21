@@ -20,7 +20,7 @@ Any visual outputs are saved in this folder or linked below.
 
 ### [`covid_deaths_pm25_sdi_eda.ipynb`](covid_deaths_pm25_sdi_eda.ipynb)
 
-- **Dataset**: `final_merged_covid_pm25_sdi.csv`
+- **Dataset**: `final_merged_covid_sdi_pm2.5.csv`
 - **Content**:
   - Explored and visualized the cleaned, merged dataset combining COVID-19 death
   rates, PM2.5 concentrations, and Socio-Demographic Index (SDI).
@@ -30,21 +30,24 @@ SDI, PM2.5 exposure, and COVID death rate.
   - Created visual summaries (heatmaps, scatter plots, etc.) to highlight trends
   and outliers.
 
-### [`eda_sdi_gbd_pm25.ipynb`](eda_sdi_gbd_pm25.ipynbb)
+### [`pm25_sdi_eda.md`](pm25_sdi_eda.md)
 
-- **Dataset**: `final_sdi_pm25_gbd.csv`
+This Markdown file introduces the folder containing the exploratory analysis of
+our final dataset.
+
+- **Dataset**: `clean_merged_data.csv`
 - **Content**:
   - Final dataset merging PM₂.₅, SDI, and health burdens for diverse countries (2010–2019).
   - Focused exploration of trends in exposure and associated disease burdens.
   - Summary statistics and exploratory figures linking exposure and burden.
-  - Visualizations: bar charts, heatmaps, scatter plots and correlation matrix.
+  - Visualizations: bar charts, heatmaps, scatter plots, and correlation matrix.
 
 ---
 
 ## 📊 Figures and Outputs
 
 If you'd like a clear overview of the scriptsun in the exploratory notebooks,
-you can find all the generated figures and outputs [The link](../../3_data_exploration/figures_1)
+you can find all the generated figures and outputs [The link](all_figures)
 
 ---
 
