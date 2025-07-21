@@ -67,6 +67,14 @@ limitations of current metrics like the AQI.
 
 ---
 
+[![Typing SVG][badge-13]](https://git.io/typing-svg)  
+Our analysis demonstrates that the Socio-Demographic Index (SDI) is the strongest predictor of country-level health burdens measured by Disability-Adjusted Life Years (DALYs), consistently explaining the largest share of variance across all-cause, cardiovascular, stroke, and respiratory diseases.
+Ambient PM₂.₅ exposure is a significant secondary predictor, particularly for cardiovascular and stroke DALYs, where lagged (1–2 years) and moving-average (3- and 5-year) exposures improve model performance. This indicates that the health impacts of air pollution accumulate over multiple years rather than manifesting immediately.
+Furthermore, the interaction between SDI and PM₂.₅ reveals that countries with lower socio-demographic development experience greater vulnerability to pollution-related health effects, with stronger marginal impacts observed in these populations.
+Regarding COVID-19 mortality, using 2020 death data and a 10-year average of PM₂.₅ exposure, the study found a modest but consistent association between pollution and increased mortality rates. Although the predictive power was lower than for DALYs, PM₂.₅ and SDI remained relevant predictors across multiple modeling approaches, suggesting that air pollution may exacerbate vulnerability to acute respiratory disease outcomes.
+
+---
+
 [![Typing SVG][badge-8]](https://git.io/typing-svg)  
 In this project, we study how **long-term exposure to PM2.5** affects
 **human health** across **25 countries**. We use **country-level PM2.5 data**
@@ -89,14 +97,15 @@ By analyzing **pollution–health patterns** across diverse regions, we aim to p
 
 ---
 
-![pm25 visual](3_data_exploration/figures/pm25_mean_visual.gif)
+![pm25 visual](notes/images/pm25_trends.gif)
+> *This animated bar chart visualizes the PM₂.₅ mean concentration across 25 selected countries to illustrate how pollution trends have changed over time in a focused subset of nations for better visual clarity and comparative insight.*
 
 ---
 
 [![Typing SVG][badge-9]](https://git.io/typing-svg)  
-We used country-level data, which means we may miss important local differences, like how air pollution affects some cities more than others. The study looks at PM₂.₅ and its link to health problems, but we don’t prove it causes them—we only show patterns. We included 25 countries with good data, but that means the results may not apply to all places. Also, some countries report health data differently, which can affect how accurate the comparisons are. Finally, we mention COVID-19 deaths for context, but we don’t say pollution caused them.
+Our analysis relies on country-level data, which can mask important within-country differences. For instance, national averages may overlook how air pollution disproportionately affects specific cities or vulnerable populations. While we investigate associations between long-term PM₂.₅ exposure and health outcomes including COVID-19 mortality our findings are observational and do not establish causality. The patterns identified represent correlations rather than proof of direct effects.  
 
----
+Additionally, differences in how countries report health and mortality data may introduce inconsistencies that affect cross-national comparisons. Also, although COVID-19 mortality is included to provide broader context, we do not claim that air pollution directly caused COVID-19 deaths; rather, we examine how long-term exposure and socio-demographic conditions may relate to pandemic outcomes at the population level.
 
 [![Typing SVG][badge-10]](https://git.io/typing-svg)  
 The [`1_datasets`](1_datasets) folder includes all datasets used throughout the project, including:
@@ -125,20 +134,20 @@ The [`3_data_exploration`](3_data_exploration/) folder includes notebooks used f
 
 - Exploring PM₂.₅ trends and health burdens  
 - Visualizing key relationships and patterns  
-- Saving figures to the [`figures`](3_data_exploration/figures_1) folder
+- Saving figures to the [`figures`](3_data_exploration/all_figures) folder
 
 ---
-[![Typing SVG][badge-13]](https://git.io/typing-svg)  
-Our analysis demonstrates that the Socio-Demographic Index (SDI) is the strongest predictor of country-level health burdens measured by Disability-Adjusted Life Years (DALYs), consistently explaining the largest share of variance across all-cause, cardiovascular, stroke, and respiratory diseases.
-Ambient PM₂.₅ exposure is a significant secondary predictor, particularly for cardiovascular and stroke DALYs, where lagged (1–2 years) and moving-average (3- and 5-year) exposures improve model performance. This indicates that the health impacts of air pollution accumulate over multiple years rather than manifesting immediately.
-Furthermore, the interaction between SDI and PM₂.₅ reveals that countries with lower socio-demographic development experience greater vulnerability to pollution-related health effects, with stronger marginal impacts observed in these populations.
-Regarding COVID-19 mortality, using 2020 death data and a 10-year average of PM₂.₅ exposure, the study found a modest but consistent association between pollution and increased mortality rates. Although the predictive power was lower than for DALYs, PM₂.₅ and SDI remained relevant predictors across multiple modeling approaches, suggesting that air pollution may exacerbate vulnerability to acute respiratory disease outcomes.
+
+[![Typing SVG][badge-18]](https://git.io/typing-svg)  
+The [`4_data_analysis`](4_data_analysis/) folder includes scripts and notebooks used to:
+
+- Perform statistical modeling and inference  
+- Fit machine learning models to evaluate relationships  
+- Generate insights to support interpretation and reporting
 
 ---
+
 [![Typing SVG][badge-14]](https://git.io/typing-svg)  
-
-## Analysis Overview
-
 We conducted a multi-phase statistical and machine learning analysis to evaluate how  PM₂.₅ air pollution exposure influenced disease burden and COVID-19 mortality globally, while accounting for development levels using the Socio-Demographic Index (SDI).
 
 1. Exploratory Data Analysis (EDA) to visualize trends in PM₂.₅, DALYs, SDI, and COVID-19 deaths.
@@ -146,6 +155,35 @@ We conducted a multi-phase statistical and machine learning analysis to evaluate
 3. Random Forest models to detect nonlinearities and improve predictive performance.
 4. Spline and Quantile Regression to evaluate nuanced interaction and distributional effects.
 5. Interaction Models tested whether PM₂.₅ impacts differ across SDI levels
+
+---
+
+[![Typing SVG][badge-15]](https://git.io/typing-svg)  
+Overall, the statistical confidence in the reported findings is well supported, particularly in the models estimating long-term health burdens (DALYs). Across both linear and nonlinear models, PM₂.₅ and SDI coefficients were statistically significant, with 95% confidence intervals generally excluding zero. The Random Forest regressors achieved high R² values –up to 0.79– indicating robust predictive performance, especially for all-cause and cardiovascular DALYs. These results are further substantiated by the consistency of feature importance rankings and directionality of effects across methods.
+However, confidence in the COVID-19 mortality models is more cautious. While PM₂.₅ retained statistical significance, the overall model performance was moderate (R² ~0.40 at best), and confidence intervals for interaction effects particularly those involving PM₂.₅ × SDI terms, were wider and occasionally included zero. This suggests potential context-dependence or nonlinearity that is not fully captured by traditional parametric methods. Also, diagnostic checks indicated partial assumption violations and the presence of influential outliers, underscoring the complexity of modeling pandemic outcomes at the country level.
+Despite these caveats, the evidence base across multiple modeling frameworks converges on the conclusion that PM₂.₅ exposure is a meaningful, though not dominant, predictor of both chronic disease burden and COVID-19 mortality. The findings should be interpreted with appropriate caution, acknowledging both the ecological nature of the data and the existence of unmeasured confounding factors, but they provide a credible foundation for further investigation and policy discussion.
+
+---
+
+[![Typing SVG][badge-16]](https://git.io/typing-svg)  
+
+- Ecological Fallacy: Country-level analysis may not reflect individual-level risks.
+- Omitted Variables: Key confounders like smoking, healthcare quality, and other pollutants were not included.
+- Data Uncertainty: PM₂.₅ and DALY estimates rely on modeled data with inherent error margins.
+- Temporal Gaps: COVID-19 deaths were measured only in 2020, while PM₂.₅ was averaged over the prior decade.
+
+---
+
+[![Typing SVG][badge-17]](https://git.io/typing-svg)  
+
+- **Mixed-effects or fixed-effects models**: Apply panel data techniques to account for country-specific unobserved heterogeneity.
+- **Subnational or individual-level data**: Collect and analyze finer-scale data for improved spatial and demographic resolution.
+- **Causal inference methods**: Use approaches like difference-in-differences or instrumental variables to better isolate the causal effects of pollution.
+- **Expanded covariates**: Integrate additional variables such as vaccination rates, healthcare infrastructure, smoking prevalence, and prevalence of comorbidities.
+- **Explainable machine learning**: Apply interpretation tools like SHAP to unpack black-box models such as Random Forest and enhance transparency.
+- Utilize **fixed-effects** or **distributed-lag models** to control for time-invariant confounders and capture dynamic temporal effects of pollution on mortality.
+
+---
 
 [![Typing SVG][badge-7]](https://git.io/typing-svg)
 
@@ -231,5 +269,9 @@ We conducted a multi-phase statistical and machine learning analysis to evaluate
 [badge-10]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Overview
 [badge-11]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Preparation
 [badge-12]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Exploration
-[badge-13]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=436&pause=1000&color=B6871ED2&width=435&lines=A+clear+statement+of+our+research+conclusion
-[badge-14]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B6871ED2&width=465&height=34&lines=Short+summary+of+our+analysis+approach
+[badge-13]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=conclusion+Statemen
+[badge-14]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Short+Summary+of+Our+Analysis+Approach
+[badge-15]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Confidence+and+Uncertainty
+[badge-16]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Limitations+Our+Work+Has
+[badge-17]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Future+Research+Directions
+[badge-18]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Data+Analysis
