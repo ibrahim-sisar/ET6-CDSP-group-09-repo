@@ -1,8 +1,39 @@
-# Data Analysis
+<h1 style="display: flex; align-items: center;">
+  Data Analysis
+  <img src="../notes/images/data_analysis.gif" alt="data" style="height:50px; margin-left:10px;">
+</h1>
 
-## Summary of Scripts & Notebooks
+In this folder, we seek to answer the following question:
+
+> **To what extent have ambient PM₂.₅ concentrations (2010–2019)
+influenced the burden of cardiovascular and respiratory diseases across
+countries with varying socio-demographic development levels, and how might
+this long-term exposure relate to COVID-19 mortality outcomes in 2020?**
+
+To investigate this, the `4_data_analysis` folder brings together all the
+notebooks and supporting files used in our statistical and machine
+learning analysis of global health outcomes related to air pollution
+and socio-demographic conditions.
 
 ---
+
+## Objectives
+
+1. **Objective 1:** Examine the relationship between
+ambient PM₂.₅ (2010–2019) and the burden of all-causes, cardiovascular, Stroke,
+and respiratory diseases measured using
+Disability-Adjusted Life
+Years (DALY)rates across countries with varying levels of socio-demographic
+development (SDI).
+
+2. **Objective 2:** Investigate whether long-term exposure to PM₂.₅
+is associated with differences in COVID-19 mortality rates across countries
+in 2020, and explore how this relationship may interact with national
+development levels.
+
+---
+
+## Summary of Scripts & Notebooks
 
 ## [`01_data_quality_prep.ipynb`](../4_data_analysis/pm25_health_impact_analysis/01_data_quality_prep.ipynb) — *Data Cleaning & Feature Engineering*
 
@@ -115,3 +146,15 @@ important than PM₂.₅ (45%).
 protective across all quantiles.
 - **Influential Countries:** Somalia, Eswatini, Bahamas, Afghanistan, and CAR had
 disproportionate leverage—warranting sensitivity checks.
+
+---
+
+## Technical Documentation
+
+Detailed methodology, results interpretation, and model diagnostics are provided
+in the following files:
+
+- [`pm25_health_technical_explanation.md`](pm25_health_technical_explanation.md)
+– Full documentation for **Objective 1**
+- [`covid_mortality_technical_explanation.md`](covid_mortality_technical_explanation.md)
+– Full documentation for **Objective 2**
