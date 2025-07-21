@@ -35,7 +35,7 @@ development levels.
 
 ## Summary of Scripts & Notebooks
 
-## [`01_data_quality_prep.ipynb`](../4_data_analysis/pm25_health_impact_analysis/01_data_quality_prep.ipynb) — *Data Cleaning & Feature Engineering*
+## [`01_data_quality_prep.ipynb`][1] — *Data Cleaning & Feature Engineering*
 
 **Objective:**  
 Prepares the foundational dataset (`analysis_ready_data.csv`) for all subsequent
@@ -53,7 +53,7 @@ analysis.
 
 ---
 
-## [`02_exploratory_trends.ipynb`](../4_data_analysis/pm25_health_impact_analysis/02_exploratory_trends.ipynb) — *Exploratory Data Analysis (EDA)*
+## [`02_exploratory_trends.ipynb`][2] — *Exploratory Data Analysis (EDA)*
 
 **Objective:**  
 Visualizes patterns, trends, and correlations in the prepared dataset.
@@ -70,7 +70,7 @@ scatterplots of PM₂.₅ vs. DALYs
 
 ---
 
-## [`03_modeling_dalys.ipynb`](../4_data_analysis/pm25_health_impact_analysis/03_modeling_dalys.ipynb) — *Predictive Modeling of DALYs*
+## [`03_modeling_dalys.ipynb`][3] — *Predictive Modeling of DALYs*
 
 **Objective:**  
 Trains regression models to predict DALYs using PM₂.₅ and socio-demographic features.
@@ -89,7 +89,7 @@ Trains regression models to predict DALYs using PM₂.₅ and socio-demographic 
 
 ---
 
-## [`04_sdi_vulnerability.ipynb`](../4_data_analysis/pm25_health_impact_analysis/04_sdi_vulnerability.ipynb) — *Vulnerability & Threshold Analysis by SDI*
+## [`04_sdi_vulnerability.ipynb`][4] — *Vulnerability & Threshold Analysis by SDI*
 
 **Objective:**  
 Assesses how PM₂.₅-related health outcomes vary across SDI levels.
@@ -107,7 +107,7 @@ each SDI group
 
 ---
 
-## [`covid_analysis_mlr.ipynb`](../4_data_analysis/pm25_covid_mortality/covid_analysis_mlr.ipynb) — *COVID-19 Mortality: Linear Models*
+## [`covid_analysis_mlr.ipynb`][5] — *COVID-19 Mortality: Linear Models*
 
 **Objective:**  
 Examines the relationship between PM₂.₅, SDI, and COVID-19 mortality using
@@ -131,7 +131,7 @@ multiple linear regression.
 
 ---
 
-## [`covid_mortality_advanced_modeling.ipynb`](../4_data_analysis/pm25_covid_mortality/covid_mortality_advanced_modeling.ipynb) — *Machine Learning & Nonlinear Models*
+## [`covid_mortality_advanced_modeling.ipynb`][6] — *Machine Learning & Nonlinear Models*
 
 **Objective:**  
 Applies advanced modeling techniques to better understand PM₂.₅–mortality relationships.
@@ -158,3 +158,11 @@ in the following files:
 – Full documentation for **Objective 1**
 - [`covid_mortality_technical_explanation.md`](covid_mortality_technical_explanation.md)
 – Full documentation for **Objective 2**
+
+<!-- Notebook reference links (hidden from view) -->
+[1]: ../4_data_analysis/pm25_health_impact_analysis/01_data_quality_prep.ipynb
+[2]:../4_data_analysis/pm25_health_impact_analysis/02_exploratory_trends.ipynb
+[3]:../4_data_analysis/pm25_health_impact_analysis/03_modeling_dalys.ipynb
+[4]:../4_data_analysis/pm25_health_impact_analysis/04_sdi_vulnerability.ipynb
+[5]:../4_data_analysis/pm25_covid_mortality/covid_analysis_mlr.ipynb
+[6]:../4_data_analysis/pm25_covid_mortality/covid_mortality_advanced_modeling.ipynb
