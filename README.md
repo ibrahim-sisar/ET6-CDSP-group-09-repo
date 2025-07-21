@@ -107,6 +107,8 @@ Our analysis relies on country-level data, which can mask important within-count
 
 Additionally, differences in how countries report health and mortality data may introduce inconsistencies that affect cross-national comparisons. Also, although COVID-19 mortality is included to provide broader context, we do not claim that air pollution directly caused COVID-19 deaths; rather, we examine how long-term exposure and socio-demographic conditions may relate to pandemic outcomes at the population level.
 
+---
+
 [![Typing SVG][badge-10]](https://git.io/typing-svg)  
 The [`1_datasets`](1_datasets) folder includes all datasets used throughout the project, including:
 
@@ -269,7 +271,7 @@ Despite these caveats, the evidence base across multiple modeling frameworks con
 [badge-10]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Overview
 [badge-11]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Preparation
 [badge-12]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Exploration
-[badge-13]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=conclusion+Statemen
+[badge-13]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Conclusion+Statemen
 [badge-14]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Short+Summary+of+Our+Analysis+Approach
 [badge-15]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Confidence+and+Uncertainty
 [badge-16]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=465&height=34&lines=Limitations+Our+Work+Has
