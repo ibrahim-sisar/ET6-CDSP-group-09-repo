@@ -110,7 +110,7 @@ Encouragingly, pollution and disease rates have **declined** over time, showing 
 
 **Cleaner air saves lives, and direct pollution reduction is vital where people are most at risk.**
 
-![EDA Figure](C:/Users/saade/OneDrive/Desktop/CDSP/ET6-CDSP-group-09-repo/4_data_analysis/pm25_health_impact_analysis/figures/eda_figures/fig_05_pm25_vs_dalys_by_sdi.png)
+![PM2.5 vs Health Impact](./4_data_analysis/pm25_health_impact_analysis/figures/eda_figures/fig_05_pm25_vs_dalys_by_sdi.png)
 
 ---
 
