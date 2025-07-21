@@ -131,7 +131,7 @@ multiple linear regression.
 
 ---
 
-## [`covid_mortality_advanced_modeling.ipynb`][6] — *Machine Learning & Nonlinear Models*
+## [`covid_mortality_advanced_modeling.ipynb`][6] —*Machine Learning Models*
 
 **Objective:**  
 Applies advanced modeling techniques to better understand PM₂.₅–mortality relationships.
