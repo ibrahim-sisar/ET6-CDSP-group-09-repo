@@ -98,7 +98,7 @@ We used country-level data, which means we may miss important local differences,
 
 ---
 
-## Non Technical Explanation of Data Analysis
+[![Typing SVG][badge-16]](https://git.io/typing-svg)
 
 Our study shows that **long-term exposure to fine air pollution particles (PM₂.₅) from 2010 to 2019** has had a clear impact on public health—especially **heart and lung diseases**. Countries with ****higher pollution levels** generally had **worse health outcomes**, and this effect was **stronger in less developed nations**.
 
@@ -145,7 +145,7 @@ The [`3_data_exploration`](3_data_exploration/) folder includes notebooks used f
 
 ---
 
-## Collaboration Framework
+## [![Typing SVG][badge-15]](https://git.io/typing-svg)
 
 - [Our Norms](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/blob/main/collaboration/README.md)
 - [Our Communication](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-09-repo/blob/main/collaboration/communication.md)
@@ -239,3 +239,5 @@ The [`3_data_exploration`](3_data_exploration/) folder includes notebooks used f
 [badge-10]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Overview
 [badge-11]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Preparation
 [badge-12]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=B6871ED2&width=435&lines=Data+Exploration
+[badge-15]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B6871ED2&width=435&lines=Collaboration+Framework
+[badge-16]:https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B6871ED2&width=520&lines=Non+Technical+Explanation+of+Data+Analysis
