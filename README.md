@@ -3,13 +3,12 @@
 # ![banner](notes/images/banner2.png)
 
 [![Typing SVG][badge-1]](https://git.io/typing-svg)  
-**Atmosfear** is a data science group project that explores the global
-challenge of air pollution and its impact on public health. Our goal is to
-uncover patterns in how different pollutants dominate across world cities and
-how these patterns relate to regional trends in respiratory and cardiovascular
-illnesses. By identifying these pollutant profiles and their health
-correlations, we aim to fill a critical research gap and hopefully support
-more targeted, pollutant-specific policy interventions.
+**Atmosfear** is a data science project investigating the global health impacts of PM₂.₅, an
+ultrafine pollutant small enough to penetrate deep into the lungs and bloodstream, yet pervasive enough to affect billions worldwide.
+
+We explore how long-term exposure to PM₂.₅ has shaped the burden of cardiovascular and respiratory diseases across countries with varying levels of socio-demographic development.
+
+Our goal is to humanize the data, to reveal the unequal health risks of polluted air and help inform more targeted, life-saving environmental and public health interventions.
 
 ---
 
@@ -42,6 +41,23 @@ vulnerable individuals?**
 
 ---
 
+[![Typing SVG][badge-6]](https://git.io/typing-svg)  
+>**To what extent have ambient PM₂.₅ concentrations (2010–2019) influenced the burden of cardiovascular and respiratory diseases across countries with varying socio-demographic development levels, and how might this long-term exposure relate to COVID-19 mortality outcomes?**
+
+ This question stems from our shared concern about the growing impact of air pollution on public health worldwide. It holds personal significance for us, as we’ve witnessed firsthand how polluted environments affect the well-being of our own communities. Our research is grounded in the broader context of global health inequities and shaped by the practical limitations of a defined research timeframe and the scope of publicly available data  
+
+*Located in the `0_domain_study` folder — [`research_question.md`](0_domain_study/research_question.md)*
+
+---
+
+[![Typing SVG][badge-13]](https://git.io/typing-svg)  
+Our analysis demonstrates that the Socio-Demographic Index (SDI) is the strongest predictor of country-level health burdens measured by Disability-Adjusted Life Years (DALYs), consistently explaining the largest share of variance across all-cause, cardiovascular, stroke, and respiratory diseases.
+Ambient PM₂.₅ exposure is a significant secondary predictor, particularly for cardiovascular and stroke DALYs, where lagged (1–2 years) and moving-average (3- and 5-year) exposures improve model performance. This indicates that the health impacts of air pollution accumulate over multiple years rather than manifesting immediately.
+Furthermore, the interaction between SDI and PM₂.₅ reveals that countries with lower socio-demographic development experience greater vulnerability to pollution-related health effects, with stronger marginal impacts observed in these populations.
+Regarding COVID-19 mortality, using 2020 death data and a 10-year average of PM₂.₅ exposure, the study found a modest but consistent association between pollution and increased mortality rates. Although the predictive power was lower than for DALYs, PM₂.₅ and SDI remained relevant predictors across multiple modeling approaches, suggesting that air pollution may exacerbate vulnerability to acute respiratory disease outcomes.
+
+---
+
 [![Typing SVG][badge-4]](https://git.io/typing-svg)  
 A brief overview of our shared insights on global air pollution, its health
 impacts, and why a deeper pollutant-specific analysis is needed.
@@ -58,26 +74,9 @@ limitations of current metrics like the AQI.
 
 ---
 
-[![Typing SVG][badge-6]](https://git.io/typing-svg)  
->**To what extent have ambient PM₂.₅ concentrations (2010–2019) influenced the burden of cardiovascular and respiratory diseases across countries with varying socio-demographic development levels, and how might this long-term exposure relate to COVID-19 mortality outcomes**
-
- This question stems from our shared concern about the growing impact of air pollution on public health worldwide. It holds personal significance for us, as we’ve witnessed firsthand how polluted environments affect the well-being of our own communities. Our research is grounded in the broader context of global health inequities and shaped by the practical limitations of a defined research timeframe and the scope of publicly available data  
-
-*Located in the `0_domain_study` folder — [`research_question.md`](0_domain_study/research_question.md)*
-
----
-
-[![Typing SVG][badge-13]](https://git.io/typing-svg)  
-Our analysis demonstrates that the Socio-Demographic Index (SDI) is the strongest predictor of country-level health burdens measured by Disability-Adjusted Life Years (DALYs), consistently explaining the largest share of variance across all-cause, cardiovascular, stroke, and respiratory diseases.
-Ambient PM₂.₅ exposure is a significant secondary predictor, particularly for cardiovascular and stroke DALYs, where lagged (1–2 years) and moving-average (3- and 5-year) exposures improve model performance. This indicates that the health impacts of air pollution accumulate over multiple years rather than manifesting immediately.
-Furthermore, the interaction between SDI and PM₂.₅ reveals that countries with lower socio-demographic development experience greater vulnerability to pollution-related health effects, with stronger marginal impacts observed in these populations.
-Regarding COVID-19 mortality, using 2020 death data and a 10-year average of PM₂.₅ exposure, the study found a modest but consistent association between pollution and increased mortality rates. Although the predictive power was lower than for DALYs, PM₂.₅ and SDI remained relevant predictors across multiple modeling approaches, suggesting that air pollution may exacerbate vulnerability to acute respiratory disease outcomes.
-
----
-
 [![Typing SVG][badge-8]](https://git.io/typing-svg)  
 In this project, we study how **long-term exposure to PM2.5** affects
-**human health** across **25 countries**. We use **country-level PM2.5 data**
+**human health**. We use **country-level PM2.5 data**
 and **disease burden estimates** for **respiratory and cardiovascular outcomes**
 from the **Global Burden of Disease (GBD) study**.
 
@@ -110,7 +109,7 @@ Additionally, differences in how countries report health and mortality data may 
 ---
 
 [![Typing SVG][badge-20]](https://git.io/typing-svg)  
-Our study shows that **long-term exposure to fine air pollution particles (PM₂.₅) from 2010 to 2019** has had a clear impact on public health—especially **heart and lung diseases**. Countries with ****higher pollution levels** generally had **worse health outcomes**, and this effect was **stronger in less developed nations**.
+Our study shows that **long-term exposure to fine air pollution particles (PM₂.₅) from 2010 to 2019** has had a clear impact on public health—especially **heart and lung diseases**. Countries with **higher pollution levels** generally had **worse health outcomes**, and this effect was **stronger in less developed nations**.
 
 Pollution’s impact wasn’t random. It followed consistent patterns across models, with the **strongest effects** seen in **cardiovascular disease**. Countries like Egypt and Afghanistan faced both high pollution and high health burdens, revealing global health inequalities.
 
@@ -121,6 +120,44 @@ Encouragingly, pollution and disease rates have **declined** over time, showing 
 **Cleaner air saves lives, and direct pollution reduction is vital where people are most at risk.**
 
 ![PM2.5 vs Health Impact](./4_data_analysis/pm25_health_impact_analysis/figures/eda_figures/fig_05_pm25_vs_dalys_by_sdi.png)
+
+---
+
+[![Typing SVG][badge-14]](https://git.io/typing-svg)  
+We conducted a multi-phase statistical and machine learning analysis to evaluate how  PM₂.₅ air pollution exposure influenced disease burden and COVID-19 mortality globally, while accounting for development levels using the Socio-Demographic Index (SDI).
+
+1. Exploratory Data Analysis (EDA) to visualize trends in PM₂.₅, DALYs, SDI, and COVID-19 deaths.
+2. Multiple Linear Regression (MLR) to assess baseline associations.
+3. Random Forest models to detect nonlinearities and improve predictive performance.
+4. Spline and Quantile Regression to evaluate nuanced interaction and distributional effects.
+5. Interaction Models tested whether PM₂.₅ impacts differ across SDI levels
+
+---
+
+[![Typing SVG][badge-15]](https://git.io/typing-svg)  
+Overall, the statistical confidence in the reported findings is well supported, particularly in the models estimating long-term health burdens (DALYs). Across both linear and nonlinear models, PM₂.₅ and SDI coefficients were statistically significant, with 95% confidence intervals generally excluding zero. The Random Forest regressors achieved high R² values –up to 0.79– indicating robust predictive performance, especially for all-cause and cardiovascular DALYs. These results are further substantiated by the consistency of feature importance rankings and directionality of effects across methods.
+However, confidence in the COVID-19 mortality models is more cautious. While PM₂.₅ retained statistical significance, the overall model performance was moderate (R² ~0.40 at best), and confidence intervals for interaction effects particularly those involving PM₂.₅ × SDI terms, were wider and occasionally included zero. This suggests potential context-dependence or nonlinearity that is not fully captured by traditional parametric methods. Also, diagnostic checks indicated partial assumption violations and the presence of influential outliers, underscoring the complexity of modeling pandemic outcomes at the country level.
+Despite these caveats, the evidence base across multiple modeling frameworks converges on the conclusion that PM₂.₅ exposure is a meaningful, though not dominant, predictor of both chronic disease burden and COVID-19 mortality. The findings should be interpreted with appropriate caution, acknowledging both the ecological nature of the data and the existence of unmeasured confounding factors, but they provide a credible foundation for further investigation and policy discussion.
+
+---
+
+[![Typing SVG][badge-16]](https://git.io/typing-svg)  
+
+- **Ecological Fallacy**: Country-level analysis may not reflect individual-level risks.
+- **Omitted Variables**: Key confounders like smoking, healthcare quality, and other pollutants were not included.
+- **Data Uncertainty**: PM₂.₅ and DALY estimates rely on modeled data with inherent error margins.
+- **Temporal Gaps**: COVID-19 deaths were measured only in 2020, while PM₂.₅ was averaged over the prior decade.
+
+---
+
+[![Typing SVG][badge-17]](https://git.io/typing-svg)  
+
+- **Mixed-effects or fixed-effects models**: Apply panel data techniques to account for country-specific unobserved heterogeneity.
+- **Subnational or individual-level data**: Collect and analyze finer-scale data for improved spatial and demographic resolution.
+- **Causal inference methods**: Use approaches like difference-in-differences or instrumental variables to better isolate the causal effects of pollution.
+- **Expanded covariates**: Integrate additional variables such as vaccination rates, healthcare infrastructure, smoking prevalence, and prevalence of comorbidities.
+- **Explainable machine learning**: Apply interpretation tools like SHAP to unpack black-box models such as Random Forest and enhance transparency.
+- Utilize **fixed-effects** or **distributed-lag models** to control for time-invariant confounders and capture dynamic temporal effects of pollution on mortality.
 
 ---
 
@@ -161,44 +198,7 @@ The [`4_data_analysis`](4_data_analysis/) folder includes scripts and notebooks 
 - Perform statistical modeling and inference  
 - Fit machine learning models to evaluate relationships  
 - Generate insights to support interpretation and reporting
-
----
-
-[![Typing SVG][badge-14]](https://git.io/typing-svg)  
-We conducted a multi-phase statistical and machine learning analysis to evaluate how  PM₂.₅ air pollution exposure influenced disease burden and COVID-19 mortality globally, while accounting for development levels using the Socio-Demographic Index (SDI).
-
-1. Exploratory Data Analysis (EDA) to visualize trends in PM₂.₅, DALYs, SDI, and COVID-19 deaths.
-2. Multiple Linear Regression (MLR) to assess baseline associations.
-3. Random Forest models to detect nonlinearities and improve predictive performance.
-4. Spline and Quantile Regression to evaluate nuanced interaction and distributional effects.
-5. Interaction Models tested whether PM₂.₅ impacts differ across SDI levels
-
----
-
-[![Typing SVG][badge-15]](https://git.io/typing-svg)  
-Overall, the statistical confidence in the reported findings is well supported, particularly in the models estimating long-term health burdens (DALYs). Across both linear and nonlinear models, PM₂.₅ and SDI coefficients were statistically significant, with 95% confidence intervals generally excluding zero. The Random Forest regressors achieved high R² values –up to 0.79– indicating robust predictive performance, especially for all-cause and cardiovascular DALYs. These results are further substantiated by the consistency of feature importance rankings and directionality of effects across methods.
-However, confidence in the COVID-19 mortality models is more cautious. While PM₂.₅ retained statistical significance, the overall model performance was moderate (R² ~0.40 at best), and confidence intervals for interaction effects particularly those involving PM₂.₅ × SDI terms, were wider and occasionally included zero. This suggests potential context-dependence or nonlinearity that is not fully captured by traditional parametric methods. Also, diagnostic checks indicated partial assumption violations and the presence of influential outliers, underscoring the complexity of modeling pandemic outcomes at the country level.
-Despite these caveats, the evidence base across multiple modeling frameworks converges on the conclusion that PM₂.₅ exposure is a meaningful, though not dominant, predictor of both chronic disease burden and COVID-19 mortality. The findings should be interpreted with appropriate caution, acknowledging both the ecological nature of the data and the existence of unmeasured confounding factors, but they provide a credible foundation for further investigation and policy discussion.
-
----
-
-[![Typing SVG][badge-16]](https://git.io/typing-svg)  
-
-- Ecological Fallacy: Country-level analysis may not reflect individual-level risks.
-- Omitted Variables: Key confounders like smoking, healthcare quality, and other pollutants were not included.
-- Data Uncertainty: PM₂.₅ and DALY estimates rely on modeled data with inherent error margins.
-- Temporal Gaps: COVID-19 deaths were measured only in 2020, while PM₂.₅ was averaged over the prior decade.
-
----
-
-[![Typing SVG][badge-17]](https://git.io/typing-svg)  
-
-- **Mixed-effects or fixed-effects models**: Apply panel data techniques to account for country-specific unobserved heterogeneity.
-- **Subnational or individual-level data**: Collect and analyze finer-scale data for improved spatial and demographic resolution.
-- **Causal inference methods**: Use approaches like difference-in-differences or instrumental variables to better isolate the causal effects of pollution.
-- **Expanded covariates**: Integrate additional variables such as vaccination rates, healthcare infrastructure, smoking prevalence, and prevalence of comorbidities.
-- **Explainable machine learning**: Apply interpretation tools like SHAP to unpack black-box models such as Random Forest and enhance transparency.
-- Utilize **fixed-effects** or **distributed-lag models** to control for time-invariant confounders and capture dynamic temporal effects of pollution on mortality.
+- Providing detailed technical explanations of analytical steps, model rationale, and result interpretation
 
 ---
 
