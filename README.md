@@ -110,7 +110,7 @@ Additionally, differences in how countries report health and mortality data may 
 ---
 
 [![Typing SVG][badge-20]](https://git.io/typing-svg)  
-Our study shows that **long-term exposure to fine air pollution particles (PM₂.₅) from 2010 to 2019** has had a clear impact on public health—especially **heart and lung diseases**. Countries with ****higher pollution levels** generally had **worse health outcomes**, and this effect was **stronger in less developed nations**.
+Our study shows that **long-term exposure to fine air pollution particles (PM₂.₅) from 2010 to 2019** has had a clear impact on public health—especially **heart and lung diseases**. Countries with **higher pollution levels** generally had **worse health outcomes**, and this effect was **stronger in less developed nations**.
 
 Pollution’s impact wasn’t random. It followed consistent patterns across models, with the **strongest effects** seen in **cardiovascular disease**. Countries like Egypt and Afghanistan faced both high pollution and high health burdens, revealing global health inequalities.
 
