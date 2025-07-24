@@ -4,7 +4,7 @@
 
 ---
 
-****1. We discussed Milestone 4 deliverables and deadlines**
+## 1. We discussed Milestone 4 deliverables and deadlines
 
 ✅ **Peer Review:**  
 
@@ -29,18 +29,21 @@ poster, or interactive dashboard.
 
 ---
 
-**2. We decided to watch Evan’s last session**
-“Communicating Results” to better understand expectations and improve our deliverables.
+## 2. We decided to watch Evan’s last session on “Communicating Results”
+
+To better understand the expectations for Milestone 4 and to improve the quality
+of our deliverables.
 
 ---
 
-**3. We divided our team into two subgroups for peer reviews**  
+## 3. We divided our team into two subgroups for peer reviews**
+
 Each subgroup will review one assigned team (`#26` or `#13`) to ensure coverage
 and efficiency.
 
 ---
 
-**4. We agreed to create dedicated GitHub Discussions for:**  
+## 4. We agreed to create dedicated GitHub Discussions
 
 - Presentation preparation – deadline is **27th of July**  
 - Target audience & persona development  
